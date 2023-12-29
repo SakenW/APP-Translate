@@ -1,0 +1,10 @@
+{
+    "target_languages": [
+        "zh-CN"
+    ],
+    "database_name": "translation_dict.db",
+    "applications": [
+        "DEVONthink",
+        "Hazel"
+    ]
+}
