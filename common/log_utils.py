@@ -5,7 +5,7 @@ import logging
 import logging.config  # 确保这行被正确导入
 import functools
 
-from common.config import LOG_DIR_NAME
+from config import LOG_DIR_NAME
 
 # 定义日志目录的完整路径
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
