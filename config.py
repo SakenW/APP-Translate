@@ -8,7 +8,7 @@ LOG_DIR_NAME = 'logs'
 
 # 目标翻译语言
 TARGET_LANGUAGES = [
-    "zh-CN",  # 简体中文
+    "zh_CN",  # 简体中文
     # "en-US",  # 美国英语
     # "ja-JP",  # 日本
     # "ko-KR",  # 韩国

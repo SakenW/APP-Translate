@@ -1,0 +1,441 @@
+/* Message header keys */
+"Date" = "日期";
+"From" = "来自";
+"Subject" = "主题";
+"To" = "to";
+"Reply-To" = "回复到";
+"Bcc" = "bcc";
+"Cc" = "cc";
+"Organization" = "组织";
+
+/* No comment provided by engineer. */
+"%.0f hours and %.0f minutes remaining" = "%1 $ .0F小时和%2 $ .0F分钟剩余";
+
+/* No comment provided by engineer. */
+"%.0f minutes remaining" = "%。剩余0f分钟";
+
+/* No comment provided by engineer. */
+"%@ (temporarily set offline)" = "%@（暂时设置离线）";
+
+/* No comment provided by engineer. */
+"%ld failed" = "%ld失败";
+
+/* No comment provided by engineer. */
+"%ld previously imported" = "%ld先前导入";
+
+/* No comment provided by engineer. */
+"A parsing problem occurred: mailbox `%@' should contain 1 message and it contains %i." = "发生了一个解析问题：邮箱“%1 $@”应包含1个消息，其中包含%2 $ i。";
+
+/* Log description message after import */
+"Aborted mail import to `%@'" = "中止邮件导入到“%@”";
+
+/* No comment provided by engineer. */
+"About a minute remaining" = "剩下大约一分钟";
+
+/* No comment provided by engineer. */
+"and" = "和";
+
+/* User visible name of the DEVONMailConduit plugin bundle */
+"Apple Mail plugin" = "苹果邮件插件";
+
+/* No comment provided by engineer. */
+"Apple Mail was never used for this login. Will not install plugin for it." = "Apple Mail从未用于此登录。不会为其安装插件。";
+"Full disk access is not enabled, will not install Apple Mail plugin." = "未启用完整的磁盘访问，不会安装Apple Mail插件。";
+
+/* No comment provided by engineer. */
+"Archive" = "导入";
+
+/* No comment provided by engineer. */
+"Archive All" = "存档邮箱";
+
+/* No comment provided by engineer. */
+"Refresh" = "刷新";
+
+/* No comment provided by engineer. */
+"Import" = "导入";
+
+/* No comment provided by engineer. */
+"Archive all messages unfiltered from the selected mailbox and all of its mailboxes in the database" = "存档所有从所选邮箱中未过滤的所有消息及其数据库中的所有邮箱";
+
+/* No comment provided by engineer. */
+"Archive the selected mailbox or messages in the database" = "导入所选邮箱或数据库中的消息";
+
+/* Export menu item */
+"as Email" = "作为电子邮件";
+
+/* No comment provided by engineer. */
+"Can't access defaults of Apple Mail. Will not install plugin for it." = "无法访问Apple Mail的默认值。不会为其安装插件。";
+
+/* No comment provided by engineer. */
+"Can't activate Mail plugin" = "无法激活邮件插件";
+
+/* No comment provided by engineer. */
+"Can't connect to Mail to get mail message data!" = "无法连接到邮件以获取邮件数据！";
+
+/* No comment provided by engineer. */
+"Can't connect to Mail to get mailbox data!" = "无法连接到邮件以获取邮箱数据！";
+
+/* No comment provided by engineer. */
+"Can't copy plugin resources" = "无法复制插件资源";
+
+/* Error message when a mailbox file can't be created */
+"Can't create mailbox for export, please check write permissions." = "无法创建用于导出的邮箱，请查看写入权限。";
+
+/* Error message when no human readable representation of the mail contents can be created. */
+"Can't display content." = "无法显示内容。";
+
+/* No comment provided by engineer. */
+"Can't get contents of message `%@'" = "无法获得消息“%@”的内容";
+
+/* No comment provided by engineer. */
+"Can't update plugin compatibility settings" = "无法更新插件兼容性设置";
+
+/* No comment provided by engineer. */
+"Can't write Apple Mail preferences." = "无法编写Apple Mail首选项。";
+
+/* Error message when disk is full */
+"Can't write message data: no free space left on disk “%@”" = "无法写入消息数据：磁盘上没有免费空间\“%@\";
+
+/* No comment provided by engineer. */
+"Cancel" = "取消";
+
+/* No comment provided by engineer. */
+"Cleaning up..." = "清理…";
+
+/* No comment provided by engineer. */
+"Clear" = "清除";
+
+/* Explains the options for updating the Mail plugin */
+"Click update to reinstall the plugin, that will make it compatible with this version of Mac OS X. If you cancel you can always do it later by going to the DEVONthink > Install Add-ons menu." = "单击更新以重新安装插件，这将使其与此版本的Mac OS X兼容。>安装附加组件菜单。";
+"Click update to reinstall the plugin, that will make it compatible with this version of macOS. If you cancel you can always do it later by going to the DEVONthink > Install Add-ons menu." = "单击更新以重新安装插件，这将使其与此版本的MacOS兼容。附加菜单。";
+
+/* No comment provided by engineer. */
+"Couldn't access mail in %@" = "无法以%@访问邮件";
+
+/* No comment provided by engineer. */
+"Couldn't add more Spotlight info from DEVONthink v1 email document" = "无法从Devonthink V1电子邮件文档中添加更多的聚光灯信息";
+
+/* No comment provided by engineer. */
+"Couldn't create email message" = "无法创建电子邮件";
+
+/* No comment provided by engineer. */
+"Couldn't create email message with attachments" = "无法创建带有附件的电子邮件";
+
+/* No comment provided by engineer. */
+"Couldn't decode encrypted data." = "无法解码加密数据。";
+
+/* No comment provided by engineer. */
+"Couldn't extract text from mail message." = "无法从邮件消息中提取文本。";
+
+/* No comment provided by engineer. */
+"Couldn't move previous version of the plugin to the Trash." = "无法将插件的先前版本移至垃圾桶。";
+
+/* Error message when failing to save message data. */
+"Couldn't save rich text to file: %@" = "无法将丰富的文本保存到文件：%@";
+
+/* Error message when failing to save message data. */
+"Couldn't save text to file: %@" = "无法将文本保存到文件：%@";
+
+/* No comment provided by engineer. */
+"Couldn't write important metadata to the message file. Can't continue import of message." = "无法将重要的元数据写入消息文件。无法继续进口消息。";
+
+/* na */
+"Couldn't write message file. Can't continue import of message." = "无法编写消息文件。无法继续进口消息。";
+
+/* Tooltip */
+"Creates a new message window in your default email application with the selection as attachments" = "在您的默认电子邮件应用程序中创建一个新的消息窗口，其中选择为附件";
+
+/* No comment provided by engineer. */
+"Database at path `%@' is read-only, can't import mail messages!" = "路径“%@”的数据库是只读的，无法导入邮件消息！";
+
+/* Menu item for File->Import menu */
+"Email..." = "电子邮件…";
+
+/* Name for shared group */
+"Email" = "电子邮件";
+
+/* Error message for app log */
+"Error importing message `%@' from `%@' at %@" = "错误导入消息“%1 $@”，从“%2 $@” at%3 $@";
+
+/* Error message for app log */
+"Error importing referenced message `%@' from `%@' at %@" = "错误导入引用的消息“%1 $@”，从“%2 $@” at%3 $@";
+
+/* No comment provided by engineer. */
+"Go" = "去";
+
+/* Countdown message for grouping conversations */
+"Grouped %ld of %ld main conversation threads" = "分组%1 $ ld%2 $ LD主对话线程";
+
+/* No comment provided by engineer. */
+"If you free up some space before clicking \"Retry\", the import will continue." = "如果在单击“重试”之前释放一些空间，则导入将继续。";
+
+/* No comment provided by engineer. */
+"Import aborted." = "导入中止。";
+
+/* No comment provided by engineer. */
+"Import Email" = "导入电子邮件";
+
+/* Countdown message */
+"Imported %ld of %ld messages..." = "导入%1 $ ld%2 $ LD消息…";
+
+/* No comment provided by engineer. */
+"Imported from `%@' by DEVONtechnologies' %@ %@ using RFC822 conversion provided by Pantomime %@" = "使用pantomime%4 $@提供的rfc822转换从devontechnologies’%2 $@%3 $@导入的“%1 $@”";
+
+/* No comment provided by engineer. */
+"Install" = "安装";
+
+/* Descriptive message for plugin */
+"Installs a plugin for Apple Mail that allows for much faster and more reliable mail transfer. It also provides functionality inside Apple Mail to archive selected mailboxes or messages." = "为Apple Mail安装插件，该插件允许更快，更可靠的邮件传输。它还提供Apple Mail内部的功能，以导入所选的邮箱或消息。";
+"Installs a plugin for Apple Mail that allows for much faster and more reliable mail transfer. It also provides functionality inside Apple Mail to archive selected mailboxes or messages.\n\nPlease note that starting with macOS Mojave the plug-in has to be enabled via Apple Mail > Preferences > General > Manage Plug-ins..." = "为Apple Mail安装插件，该插件允许更快，更可靠的邮件传输。它还提供了Apple Mail内部的功能到存档选定的邮箱或消息。";
+
+/* Pretty print time display */
+"Less than a minute remaining" = "剩下的不到一分钟";
+
+/* No comment provided by engineer. */
+"Loading folders..." = "加载文件夹…";
+
+/* Threading message */
+"Loading mailbox `%@' to resolve conversation threads..." = "加载邮箱“%@”来解决对话线程…";
+
+/* Loading message */
+"Loading messages for archival..." = "加载消息以导入…";
+
+/* Loading folder */
+"Loading messages from `%@'..." = "从“%@”加载消息…";
+
+/* No comment provided by engineer. */
+"Loading messages..." = "加载消息…";
+
+/* Archive Window title */
+"Mail Archiver" = "电子邮件进口商";
+
+/* record name if mail has no subject */
+"Mail from %@" = "来自%@的邮件";
+
+/* Log description message after problematic import */
+"Mail import problem" = "邮件导入问题";
+
+/* Log description message after import */
+"Mail import to `%@'" = "邮件导入到“%@”";
+
+/* No comment provided by engineer. */
+"Mail Source" = "邮件源";
+
+/* No comment provided by engineer. */
+"Mailbox import" = "邮箱导入";
+
+/* No comment provided by engineer. */
+"Mailbox import from Mail" = "邮箱从邮件中导入";
+
+/* No comment provided by engineer. */
+"Message import" = "消息导入";
+
+/* No comment provided by engineer. */
+"Message import from Mail" = "消息从邮件导入";
+
+/* No comment provided by engineer. */
+"No database is open to store the mail messages in!" = "没有打开数据库来存储邮件中的邮件！";
+
+/* No comment provided by engineer. */
+"No mail messages selected for export." = "未选择导出的邮件消息。";
+
+/* No comment provided by engineer. */
+"No mailbox folders found in folder `%@'. Try another folder?" = "在文件夹“%@”中找不到邮箱文件夹。尝试另一个文件夹？";
+
+/* No comment provided by engineer. */
+"OK" = "确定";
+
+/* Name of mailbox on local disk */
+"On My Mac" = "在我的Mac上";
+
+/* No comment provided by engineer. */
+"Open" = "打开";
+
+/* No comment provided by engineer. */
+"Opening mailbox..." = "打开邮箱...";
+
+/* No comment provided by engineer. */
+"OpenPGP encryption is not supported." = "不支持OpenPGP加密。";
+
+/* No comment provided by engineer. */
+"Opens the Email Importer window" = "打开电子邮件进口商窗口";
+
+/* No comment provided by engineer. */
+"Please check if you are running the latest version of your mail program." = "请检查您是否正在运行最新版本的邮件程序。";
+
+/* No comment provided by engineer. */
+"Please check that you have a valid certificate installed in your keychain. See `My Certificates' in the Keychain." = "请检查您的钥匙扣中是否安装了有效的证书。请参阅钥匙扣中的“我的证书”。";
+
+/* No comment provided by engineer. */
+"Please check your write permissions and the amount of free space in your home \"Library/Mail/Bundles\" folder." = "请检查您的写入权限和家庭中的可用空间\“ library/mail/bundles \”文件夹。";
+
+/* No comment provided by engineer. */
+"Please check your write permissions and the amount of free space in your home \"Library/Preferences\" folder." = "请检查您的写入权限和家庭中的可用空间\“ library/perverences \”文件夹。";
+
+/* No comment provided by engineer. */
+"Please check your write permissions in your home \"Library/Mail/Bundles\" folder." = "请检查您的家中的写入权限\“ library/mail/bundles \”文件夹。";
+
+/* No comment provided by engineer. */
+"Please contact support@devontechnologies.com with this error message and any information you can find in the Console at this moment." = "请通过此错误消息与support@devontechnologies.com联系，并且此刻您可以在控制台中找到任何信息。";
+
+/* No comment provided by engineer. */
+"Please download the messages of the folders you want to archive." = "请下载要导入的文件夹的消息。";
+
+/* No comment provided by engineer. */
+"Please download the messages of the folders you want to archive. Click `Go' to go directly to %@." = "请下载要导入的文件夹的消息。单击“去”直接转到%@。";
+
+/* No comment provided by engineer. */
+"Please open the database that you want to use to store the messages in and run the import from within Mail again. Remember that you can set a default database that would prevent this from occurring in the future (go to File > Database Properties...)." = "请打开您要使用的数据库存储消息并再次从邮件中运行导入的数据库。请记住，您可以设置一个默认数据库，该数据库可以防止将来发生这种情况（转到文件>数据库属性…）。";
+
+/* No comment provided by engineer. */
+"Please purchase a license that will allow you to import as many messages as you like." = "请购买许可证，该许可将允许您根据需要导入任意数量的消息。";
+
+/* No comment provided by engineer. */
+"Please quit Apple Mail" = "请退出Apple Mail";
+
+/* No comment provided by engineer. */
+"Please select another mail source. If you select the same application, it will be started again." = "请选择另一个邮件源。如果选择同一应用程序，它将再次启动。";
+
+/* No comment provided by engineer. */
+"Please store the messages for the `%@' Mail Account locally. Check the Account > Advanced preference pane in Mail and afterwards select the menu `Mailbox > Synchronize All Accounts' before running the import again." = "请在本地存储“%@”邮件帐户的消息。在邮件中查看帐户>“高级优先窗格”，然后在再次运行导入之前选择菜单“邮箱>同步所有帐户”。";
+
+/* No comment provided by engineer. */
+"Please use the Mail application by setting it up before installing the %@ again." = "请在再次安装%@之前设置邮件应用程序。";
+"Please enable full disk access in System Preferences > Security & Privacy for %@ before installing the %@ again." = "请在再次安装%@之前启用系统首选项中的完整磁盘访问> security＆privacy for%@。";
+
+/* No comment provided by engineer. */
+"Preparing to import" = "准备导入";
+
+/* No comment provided by engineer. */
+"Preparing to import mailboxes from Mail" = "准备从邮件导入邮箱";
+
+/* No comment provided by engineer. */
+"Preparing to import messages from Mail" = "准备从邮件导入消息";
+
+/* No comment provided by engineer. */
+"Preparing to import recursively" = "准备存档";
+
+/* Log info message after import */
+"Processed %ld mail messages from `%@'; imported: %ld, failures: %ld, duplicates: %ld" = "Processed %1$ld mail messages from “%2$@”; imported: %3$ld, failures: %4$ld, duplicates: %5$ld";
+
+/* Notification center message after import */
+"Imported %ld mail messages." = "导入%LD邮件。";
+
+/* No comment provided by engineer. */
+"Purchase" = "购买";
+
+/* No comment provided by engineer. */
+"Quit it for me" = "为我退出";
+
+/* No comment provided by engineer. */
+"Re-calculating remaining time..." = "重新计算剩余时间…";
+
+/* No comment provided by engineer. */
+"Recent Searches" = "最新搜索";
+
+/* No comment provided by engineer. */
+"Recents" = "recents";
+
+/* No comment provided by engineer. */
+"Retry" = "重试";
+
+/* No comment provided by engineer. */
+"Search" = "搜索";
+
+/* No comment provided by engineer. */
+"Search Menu" = "搜索菜单";
+
+/* No comment provided by engineer. */
+"Searches the sender and subject of messages." = "搜索消息的发件人和主题。";
+
+/* No comment provided by engineer. */
+"Select the program or file for mail messages." = "选择邮件邮件的程序或文件。";
+
+/* Menu title */
+"Send by Email" = "通过电子邮件发送";
+
+/* Menu title */
+"Send Reply" = "发送回复";
+
+/* No comment provided by engineer. */
+"Shows or hides the message filter drawer." = "显示或隐藏消息过滤器抽屉。";
+
+/* Stop message after user clicked `Stop' */
+"Stopping import..." = "停止导入…";
+
+/* Alert warning title when plugin is not up-to-date */
+"The %@ needs to be updated" = "%@需要更新";
+
+/* No comment provided by engineer. */
+"The application `%@' quit." = "应用程序“%@”退出。";
+
+/* Inline error message for displaying badly decoded messages. */
+"The following message could not be decoded properly, what follows is the best approach to make a readable document out of it:\n\n" = "无法正确解码以下消息，以下是从中制作出可读文档的最佳方法：\ n \ n";
+
+/* No comment provided by engineer. */
+"There was a problem decrypting this message." = "在此消息中解密问题。";
+
+/* No comment provided by engineer. */
+"This application can't run while the %@ is being installed." = "在安装%@时，此应用程序无法运行。";
+
+/* Warning message in mail message body when text has been too large. */
+"This is a summary of the selected record text!" = "这是所选记录文本的摘要！";
+
+/* No comment provided by engineer. */
+"Toggle Filter" = "切换过滤器";
+
+/* Menu item under File > Export */
+"Unix mailbox" = "unix邮箱";
+
+/* No comment provided by engineer. */
+"Unix mailbox export" = "UNIX邮箱导出";
+
+/* No comment provided by engineer. */
+"Unloaded messages found in folder `%@'!" = "在文件夹“%@”中找到的卸载消息！";
+
+/* Button title */
+"Update" = "更新";
+
+/* No comment provided by engineer. */
+"Waiting for %@ to finish fetching mail..." = "等待%@完成获取邮件...";
+
+/* No comment provided by engineer. */
+"You could try to open a specific file instead." = "您可以尝试打开特定文件。";
+
+/* Demo limit exceeded message */
+"You exceeded the demo limit on the import of messages for today." = "您超过了今天的消息导入的演示限制。";
+
+"Date Received" = "收到的日期";
+"Mailbox" = "邮箱";
+"Name / Subject / Address" = "名称 /主题 /地址";
+"Unix Mailbox..." = "unix邮箱...";
+"Show:" = "显示：";
+"Hide:" = "隐藏：";
+"Any" = "任何";
+"Read" = "阅读";
+"Unread" = "未读";
+"Flagged" = "标记";
+"Priority" = "优先级";
+"From:" = "来自：";
+"to:" = "to：";
+"Imported" = "导入";
+"Deleted" = "已删除";
+"Junk" = "垃圾";
+"No subject" = "没有主题";
+"Search:" = "搜索：";
+"Bundles (Disabled)" = "捆绑（禁用）";
+"Destination:" = "目标：";
+"%d emails, %d selected" = "%d电子邮件，选择的%d";
+"%d emails" = "%d电子邮件";
+"Plugin for Apple Mail is not installed or not enabled." = "未安装或未启用Apple Mail的插件。";
+"Destination" = "目标";
+"Show" = "显示";
+"Hide" = "隐藏";
+"to" = "to";
+"Version %@ is available, you're using version %@" = "版本%@可用，您正在使用version%@";
+"Version %@ is installed." = "版本%@已安装。";
+"Archive Emails" = "存档电子邮件";
+"Import Emails" = "导入电子邮件";
+"No database is open!" = "没有打开数据库！";
+"Can't import file `%@' at location: %@" = "无法在位置：%2 $@导入文件“%1 $@”";
+"Top or current group" = "顶部或当前组";

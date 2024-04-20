@@ -1,0 +1,34 @@
+
+/* na */
+"Download" = "下载";
+
+/* na */
+"OK" = "确定";
+
+/* na */
+"Cancel" = "取消";
+
+/* na */
+"A New Version is Available" = "有一个新版本可用";
+
+/* na */
+"A new version of %@ is available (%@). Would you like to download the new version now?" = "可用的新版本@（%@）。您想立即下载新版本吗？";
+
+/* na */
+"Your software is up-to-date" = "您的软件是最新的";
+
+/* na */
+"You are running %@ %@. No newer version was found." = "您正在运行%@%@。找不到更新的版本。";
+
+"Quick Look" = "快速查看";
+"Close Quick Look" = "快速查看";
+"Slideshow" = "幻灯片";
+"Quick Look \"%@\"" = "快速查看“%@”";
+"Quick Look %d items" = "快速查看%d项目";
+"Slideshow \"%@\"" = "幻灯片“%@”";
+"Slideshow %d items" = "幻灯片%d项目";
+"System Preferences" = "打开系统首选项";
+"Full Disk Access is Required" = "没有完整的磁盘访问";
+"Please enable full disk access in System Preferences > Security & Privacy for %@ before attempting this operation again." = "请在再次尝试此操作之前启用系统首选项中的完整磁盘访问> security＆privacy for%@。";
+"Automation is Required" = "需要自动化";
+"Please enable automation in System Preferences > Security & Privacy for %@ before attempting this operation again." = "在再次尝试此操作之前，请在系统首选项中启用自动化> security＆privacy for%@。";

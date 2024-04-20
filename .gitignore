@@ -1,0 +1,8 @@
+logs/app.log
+common/db_temp.py
+.DS_Store
+common/Translate/Googletrans2.py
+temo.py
+temp.py
+database/translation_dict-openai.db
+database/translation_dict-g.db

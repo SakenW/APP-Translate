@@ -1,0 +1,45 @@
+
+/* na */
+"%.1f KB" = "%。1Fkb";
+
+/* na */
+"%.1f of %.1f KB" = "%。0f%.0f kb";
+
+/* na */
+"%.1f MB" = "%。1FMB";
+
+/* na */
+"%.1f of %.1f MB" = "%。1F%.1F MB";
+
+/* na */
+"%.1f KB/s" = "%。1Fkb/s";
+
+/* na */
+"Download Directory" = "下载目录";
+
+/* na */
+"Start" = "开始";
+
+/* na */
+"Stop" = "停止";
+
+/* na */
+"Choose" = "选择";
+
+/* na */
+"%d items, %d active, %d done" = "%d项目（%d active） - %d完成";
+
+/* na */
+"Importing..." = "导入...";
+
+/* na */
+"Are you sure you want to quit? %@ is currently downloading %d files. If you quit now, it will not finish downloading these files." = "您确定要退出吗？%@当前正在下载%D文件。如果您现在退出，它将无法完成下载这些文件。";
+
+/* na */
+"Don't Quit" = "不要退出";
+
+/* na */
+"Quit" = "退出";
+
+/* na */
+"Downloads are in progress." = "下载正在进行中。";

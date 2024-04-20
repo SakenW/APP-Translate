@@ -1,0 +1,63 @@
+/* Error description */
+"A component of the path is not a directory." = "路径的一个组件不是目录。";
+
+/* Error description */
+"Buffer too small for attribute names." = "缓冲区太小而无法属性名称。";
+
+/* Error description */
+"Failed to reassemble attribute value." = "无法重新集结属性值。";
+
+/* Error description */
+"File name too long." = "文件名太长。";
+
+/* Error description */
+"File system does not support extended attributes or they are disabled." = "文件系统不支持扩展属性或禁用它们。";
+
+/* Error description */
+"I/O error occurred." = "I/O错误。";
+
+/* Error description */
+"Invalid data." = "无效数据。";
+
+/* Error description */
+"No space left on file system." = "文件系统上没有空间。";
+
+/* Error description */
+"Notes file not found." = "记录文件找不到。";
+
+/* Error description */
+"Options contained XATTR_CREATE but the named attribute exists." = "选项包含XATTR_CREATE，但命名属性存在。";
+
+/* Error description */
+"Options not recognized." = "选项未识别。";
+
+/* Error description */
+"Path or name points to an invalid address." = "路径或名称指向无效的地址。";
+
+/* Error description */
+"Read-only file system.  Unable to change attributes." = "只读文件系统。无法更改属性。";
+
+/* Error description */
+"Search permission denied for this path." = "搜索权限拒绝了此路径。";
+
+/* Error description */
+"The data size of the extended attribute is too large." = "扩展属性的数据大小太大。";
+
+/* Error description */
+"The file does not exist or is not a file." = "文件不存在或不存在文件。";
+
+/* Error description */
+"The file does not exist or is not a package." = "文件不存在或不存在。";
+
+/* Error description */
+"The named attribute does not exist." = "命名属性不存在。";
+
+/* Error description */
+"This file system object does not support extended attributes." = "此文件系统对象不支持扩展属性。";
+
+/* Error description */
+"Too many symlinks encountered resolving path." = "太多的符号链接遇到了解决路径。";
+
+/* Error description */
+"Unknown error occurred." = "未知错误。";
+

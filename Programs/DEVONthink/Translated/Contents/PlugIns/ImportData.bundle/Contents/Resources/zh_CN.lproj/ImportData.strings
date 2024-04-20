@@ -1,0 +1,17 @@
+"Groups" = "组";
+"References from Bookends..." = "bookends的引用...";
+"References from Bookends" = "bookend的引用";
+"Importing..." = "导入...";
+"%d added, %d updated." = "%d添加，%d更新。";
+"%d added." = "%d添加。";
+"%d notes added." = "%d注释。";
+"%d added, %d skipped." = "%d，先前导入的%d。";
+"Notes from Evernote..." = "evernote的注释...";
+"Notes from Evernote" = "Evernote的注释";
+"Notebooks" = "笔记本";
+"No notebooks." = "没有笔记本。";
+"Items from Yojimbo" = "Yojimbo的项目";
+"Items from Notes" = "笔记中的文件夹和附件";
+"Unnamed" = "未命名";
+"Legacy version of Evernote is required." = "需要Evernote的旧版本。";
+"Bookmarks from HTML file..." = "从html文件...";

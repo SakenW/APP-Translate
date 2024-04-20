@@ -1,0 +1,88 @@
+/* 
+  Localizable.strings
+  DTOCRPlugin
+
+  Created by Alan Edwards on 03/12/2014.
+  Copyright (c) 2014 DEVONtechnologies. All rights reserved.
+*/
+"Don't ask me again" = "不要再问我";
+"Title:" = "标题";
+"Author:" = "作者：";
+"Subject:" = "主题：";
+"Tags:" = "标签：";
+"Created:" = "创建：";
+
+"CJK PDF - Tranferring attributes skipped" = "跳过以避免损坏文本层的tranferring属性";
+"CJK PDF - Tranferring annotations and attributes skipped" = "被跳过的转换注释和属性以避免损坏文本层";
+"ABBYY FineReader OCR" = "Abbyy Finereader OCR";
+"Move original to trash" = "将原始移动到垃圾";
+"to Web Archive" = "到Web存档";
+"Convert to Web Archive" = "转换为Web存档";
+"OCR" = "OCR";
+"Connecting to DEVONtechnologies Server" = "连接到Devontechnologies Server";
+"Later" = "以后";
+"Upgrade..." = "升级...";
+"Install..." = "安装...";
+"Download and install the Abbyy FineReader engine and languages from the DEVONtechnologies website." = "从Devontechnologies网站下载并安装Abbyy Finereader引擎和语言。";
+"Install the Abbyy FineReader OCR." = "安装Abbyy Finereader OCR。";
+"Version %@ is available, you're using version %@" = "版本%@可用，您正在使用version%@";
+"Install update to Abbyy FineReader OCR" = "安装更新到Abbyy Finereader OCR";
+"Cancel" = "取消";
+"Extracting Abbyy OCR" = "提取Abbyy OCR";
+"Wait" = "等待";
+"Cancel Jobs" = "取消作业";
+"The Abbyy OCR component is currently in use" = "当前正在使用Abbyy OCR组件";
+"Either cancel all OCR jobs, or wait for them to complete before continuing the upgrade." = "取消所有OCR作业，或者等待它完成，然后继续升级。";
+"Waiting for OCR jobs to complete. %@ Jobs in progress" = "等待OCR作业完成。%@工作正在进行";
+"Installing Abbyy OCR" = "安装Abbyy OCR";
+"%.0lfMB of %.0lfMB" = "%。0lfmb的%.0lfmb";
+"The Abbyy FineReader Resources package is corrupt" = "Abbyy Finereader Resources软件包损坏";
+"Check your internet connection. If it still fails, contact support@devontechnologies.com with this message." = "检查您的Internet连接。如果仍然失败，请与support@devontechnologies.com联系此消息。";
+"Couldn't extract Abbyy FineReader Resources" = "无法提取abbyy finereader资源";
+"Please check your permissions or free disk space." = "请检查您的权限或免费磁盘空间。";
+"OK" = "确定";
+"Purchase" = "购买";
+"You exceeded the demo limit on the import of OCR documents for today." = "您超过了今天的OCR文档导入的演示限制。";
+"Please purchase a license that will allow you to import as many image documents as you like. The current document will be imported as is." = "请购买许可证，该许可将允许您根据需要导入任意数量的图像文档。当前文档将按原样导入。";
+"Images (with OCR)..." = "图像（带有OCR）...";
+"to Rich Text" = "到丰富的文本";
+"Convert to Rich Text" = "转换为富文本";
+"Convert to searchable PDF" = "转换为可搜索的PDF";
+"Adding document..." = "添加文档...";
+"Waiting..." = "等待...";
+"Downloading %.0lfMB of %.0lfMB" = "下载%.0lfmb of%.0LFMB";
+"to Word Document" = "到Word文档";
+"Convert to Word Document" = "转换为Word文档";
+"Please click `Install' to download and install the OCR" = "请单击“安装”以下载并安装OCR";
+
+"Preprocess" = "预处理";
+"Analysis" = "分析";
+"Recognition" = "识别";
+"Synthesis" = "合成";
+"Export" = "导出";
+"Page %ld of %ld: %@" = "Page%ld of%ld：%@";
+"Converting to image" = "转换为图像";
+
+
+"OCR (PDF)" = "OCR（PDF）";
+"OCR (Word)" = "ocr（word）";
+"OCR (RTF)" = "OCR (RTF)";'
+"OCR (HTML)" = "OCR（HTML）";
+
+"Loading Document" = "加载文档";
+"to searchable PDF" = "到可搜索的PDF";
+"to RTF document" = "到RTF文档";
+"to Word document" = "到Word文档";
+"to Web Archive" = "到Web存档";
+"to Comment" = "发表评论";
+"to Annotation" = "注释";
+
+"Convert:" = "转换：";
+"Scans shouldn\'t be saved in the inbox folder, OCR might fail otherwise." = "扫描不应保存在收件箱文件夹中，否则OCR可能会失败。";
+"Unable to OCR document. Please install ABBYY OCR by going to DEVONthink 3 > Install Add-ons and follow the instructions" = "无法进行OCR文档。请进入DevonThink 3>安装附加组件，然后按照说明安装Abbyy OCR";
+
+
+"Are you sure you want to convert this searchable PDF again?" = "您确定要再次转换此可搜索的PDF吗？";
+"Convert" = "转换";
+"Depending on the resolution of the images in this document, the OCR results may not improve. We recommend using colour scans with a resolution of 300 dpi." = "根据本文档中图像的分辨率，OCR结果可能无法改善。我们建议使用颜色扫描，分辨率为300 dpi。";
+

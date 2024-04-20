@@ -1,0 +1,74 @@
+/* na */
+"Disallow Hyphenation" = "禁止连字符";
+
+/* na */
+"Allow Hyphenation" = "允许连字符";
+
+/* na */
+"Make Link" = "进行链接";
+
+/* na */
+"Remove Link" = "删除链接";
+
+/* na */
+"Hide Invisible Characters" = "隐藏不可见的字符";
+
+/* na */
+"Show Invisible Characters" = "显示隐形字符";
+
+/* na */
+"Insert" = "插入";
+
+/* na */
+"Bullet" = "子弹";
+
+/* na */
+"Line Break" = "线路断开";
+
+/* na */
+"Paragraph Break" = "段落中断";
+
+/* na */
+"Page Break" = "页面断开";
+
+/* na */
+"Date" = "日期";
+
+/* na */
+"Time" = "时间";
+
+/* na */
+"Picture" = "图片...";
+
+/* na */
+"SINGLE_OPEN_QUOTE" = "’’";
+
+/* na */
+"SINGLE_CLOSE_QUOTE" = "’";
+
+/* na */
+"DOUBLE_OPEN_QUOTE" = "“”";
+
+/* na */
+"DOUBLE_CLOSE_QUOTE" = "”";
+
+/* na */
+"Print header and footer" = "打印标头和页脚";
+
+/* na */
+"Rewrap contents to fit page" = "重新包装内容以适合页面";
+
+/* na */
+"Header and Footer" = "标题和页脚";
+
+/* na */
+"Rewrap to fit page" = "重新包装到适合页面";
+
+/* na */
+"On" = "on";
+
+/* na */
+"Off" = "关闭";
+
+/* na */
+"Link:" = "链接：";

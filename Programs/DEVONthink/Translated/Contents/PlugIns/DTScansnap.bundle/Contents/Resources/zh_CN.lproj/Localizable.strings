@@ -1,0 +1,17 @@
+/* 
+  Localozable.strings
+  DTScansnap
+
+  Created by Alan Edwards on 06/02/2015.
+  Copyright (c) 2015 DEVONtechnologies LLC. All rights reserved.
+*/
+"MSG_TITLE" = "DEVONTHINK";
+"Failed to reserve device. (0x%08x)" = "无法保留设备。（0x%08x）";
+"Failed to start scan. (0x%08x)" = "无法启动扫描。（0x%08x）";
+"Failed to release device. (0x%08x)" = "无法发布设备。（0x%08x）";
+"MSG_ANALYRESULT_ERROR" = "无法分析结果文件。";
+"Failed to launch ScanSnap Manager.app." = "无法启动ScansNap Manager应用程序。";
+"MSG_NOSUPPORTSCANSNAP" = "未能找到支持的ScansNap Manager应用程序。";
+"MSG_OK_BUTTON" = "确定";
+"ScanSnap Scanner" = "scansnap扫描仪";
+"Scan from ScanSnap" = "从scansnap扫描";

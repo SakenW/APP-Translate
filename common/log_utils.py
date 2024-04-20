@@ -8,7 +8,7 @@ import functools
 from config import LOG_DIR_NAME
 
 # 定义日志目录的完整路径
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LOG_DIR = os.path.join(BASE_DIR, LOG_DIR_NAME)
 
 # 确保日志目录存在
@@ -29,7 +29,8 @@ LOGGING_CONFIG = {
 
     'handlers': {
         'console': {
-            'level': 'DEBUG',  # 控制台日志记录器的日志级别（DEBUG最详细）
+#            'level': 'DEBUG',  # 控制台日志记录器的日志级别（DEBUG最详细）
+            'level': 'INFO',  # 文件日志记录器的日志级别（INFO较详细）
             'class': 'logging.StreamHandler',  # 使用流处理器，将日志消息输出到控制台
             'formatter': 'standard',  # 使用上面定义的'standard'格式
         },
@@ -45,7 +46,8 @@ LOGGING_CONFIG = {
     'loggers': {
         '': {
             'handlers': ['console', 'file'],  # 同时使用控制台和文件处理器
-            'level': 'DEBUG',  # 根日志记录器的日志级别
+#            'level': 'DEBUG',  # 根日志记录器的日志级别
+            'level': 'INFO',  # 文件日志记录器的日志级别（INFO较详细）
             'propagate': True,  # 允许日志消息传播到更高级别的父日志记录器
         },
     },

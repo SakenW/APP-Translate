@@ -1,0 +1,35 @@
+"Undo %@" = "duno%@";
+"Redo %@" = "重做%@";
+
+"Replicate" = "复制";
+"Classify" = "分类";
+"Move" = "移动";
+"Group" = "组项目";
+"Ungroup" = "Ungroup项目";
+"Auto Group" = "自动组项目";
+"Auto Classify" = "分类";
+"Delete" = "删除";
+
+"Label" = "标签";
+"Locking" = "锁定";
+"Exclude from Classification" = "排除在分类中";
+"Exclude from See Also" = "也排除在参见";
+"Exclude from Search" = "排除在搜索之外";
+"Exclude from Tagging" = "排除在标记之外";
+"Exclude from Wiki Linking" = "从Wiki链接中排除";
+"State" = "标志";
+"Unread" = "未读";
+"Merge Items" = "合并项目";
+"Rating" = "等级";
+"Renaming" = "重命名";
+"Bookmark" = "新书签";
+"Feed" = "新提要";
+"New Group" = "新组";
+"New Tag" = "新标签";
+"Duplicate" = "重复";
+"Import" = "导入";
+"Convert" = "转换";
+"Tags" = "标签";
+"Comments" = "查找器评论";
+"Aliases" = "别名";
+"URLs" = "URL";

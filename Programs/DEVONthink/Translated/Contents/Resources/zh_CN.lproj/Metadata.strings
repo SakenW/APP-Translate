@@ -1,0 +1,90 @@
+"kMDItemTitle" = "标题";
+"kMDItemHeadline" = "标题";
+"kMDItemSubject" = "主题";
+
+"kMDItemKeywords" = "关键字";
+"kMDItemDescription" = "描述";
+"kMDItemCopyright" = "版权";
+"kMDItemComment" = "注释";
+"kMDItemURL" = "URL";
+
+"kMDItemCreator" = "创建者";
+"kMDItemProducer" = "生产者";
+
+"kMDItemAuthors" = "作者";
+"kMDItemAuthorEmailAddresses" = "来自";
+"kMDItemRecipients" = "收件人";
+"kMDItemRecipientEmailAddresses" = "to";
+"kMDItemEmailAddresses" = "电子邮件";
+
+"kMDItemAlbum" = "专辑";
+"kMDItemComposer" = "作曲家";
+
+"kMDItemContributors" = "贡献者";
+"kMDItemPublishers" = "发布者";
+"kMDItemEditors" = "编辑器";
+"kMDItemOrganizations" = "组织";
+
+"Document Properties" = "文档属性";
+"Author:" = "作者：";
+"Company:" = "公司：";
+"Copyright:" = "版权：";
+"Title:" = "标题：";
+"Subject:" = "主题：";
+"Keywords:" = "关键字：";
+"Comment:" = "注释：";
+"Additional Information:" = "其他信息：";
+"Title of the document. Not applicable to plain text documents." = "文档的标题。仅适用于丰富的文本和PDF文档。";
+"Subject of the document. Not applicable to plain text documents." = "文档的主题。仅适用于丰富的文本和PDF文档。";
+"Author(s) of the document. Not applicable to plain text documents." = "文档的作者。仅适用于丰富的文本和PDF文档。";
+"Keywords describing the document. Not applicable to plain text documents." = "描述文档的关键字。仅适用于丰富的文本和PDF文档。";
+"Comments. Not applicable to plain text documents." = "注释。仅适用于丰富的文本文档。";
+"Company or organization name. Not applicable to plain text documents." = "公司或组织名称。仅适用于丰富的文本文档。";
+"Copyright notice or other rights information. Not applicable to plain text documents." = "版权通知或其他权利信息。仅适用于丰富的文本文档。";
+
+"by %@" = "by%@";
+
+"Date" = "日期";
+"Company" = "公司";
+"Author" = "作者";
+"Abstract" = "摘要";
+"Serial Number" = "序列号";
+"ISSN/ISBN" = "ISSN/ISBN";
+"Digital Object Identifier (DOI)" = "数字对象标识符（doi）";
+"PubMed ID" = "PubMed ID";
+"PMC ID" = "PMC ID";
+"Format" = "格式";
+"Category" = "类别";
+"Subcategory" = "子类别";
+"Genre" = "流派";
+"Country" = "国家 /地区";
+"Language" = "语言";
+"Price" = "价格";
+"Tax" = "税";
+"Tip" = "提示";
+"Reimbursable" = "可报销";
+"Electronic" = "电子";
+"Journal" = "日记";
+"Paperback" = "平装本";
+"Hardcover" = "精装";
+"Tape" = "磁带";
+"VHS" = "VHS";
+"CD" = "CD";
+"DVD" = "DVD";
+"BlueRay" = "蓝光";
+"Status" = "状态";
+"No Status" = "没有状态";
+"N/A" = "n/a";
+"To Do" = "做";
+"Rough Draft" = "粗略草稿";
+"Final Draft" = "最终草稿";
+
+"Administrative Area" = "管理区域";
+"Postal Code" = "邮政编码";
+"Locality" = "局部性";
+"Attachments" = "附件";
+"PDF Annotations" = "PDF注释";
+"Encryption" = "加密";
+"Barcode" = "条形码";
+"Outgoing Item Links" = "传出项目链接";
+"Incoming Item Links" = "传入项目链接";

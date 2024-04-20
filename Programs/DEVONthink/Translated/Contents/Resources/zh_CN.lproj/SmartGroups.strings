@@ -1,0 +1,476 @@
+
+"Everything" = "所有";
+"Content" = "内容";
+"Name" = "名称";
+"Finder Comment" = "查找器评论";
+"Comment" = "注释";
+"URL" = "URL";
+"Tag" = "标签";
+"Data" = "数据";
+"Meta Data" = "元数据";
+"Metadata" = "元数据";
+
+"Kind" = "类型";
+"Extension" = "扩展";
+"Instance" = "实例";
+"Record" = "项目";
+
+"Locking" = "锁定";
+"Unread" = "未读";
+"State" = "标志";
+"Label" = "标签";
+
+"Width" = "宽度";
+"Height" = "高度";
+"Duration" = "持续时间";
+"Length" = "长度";
+"Size" = "大小";
+"Word Count" = "单词计数";
+"Character Count" = "字符计数";
+
+"Date Added" = "添加日期";
+"Date Created" = "创建的日期";
+"Date Modified" = "修改日期";
+"Date Opened" = "日期已打开";
+"Date Due" = "到期日期";
+
+"Off" = "关闭";
+"On" = "on";
+"is" = "是";
+"is not" = "不是";
+"contains" = "包含";
+"matches" = "匹配";
+"is less than" = "小于";
+"is less than or equal to" = "小于或等于";
+"is greater than" = "大于";
+"is greater than or equal to" = "大于或等于";
+
+"Aliases" = "别名";
+"Annotation" = "注释";
+"Script" = "脚本";
+"Reminder" = "提醒";
+"Thumbnail" = "缩略图";
+
+"Replicated" = "复制";
+"Duplicated" = "重复";
+"Indexed" = "索引";
+"Pending" = "待处理";
+"Tagged" = "标记";
+
+"Author" = "作者";
+"From" = "来自";
+"Recipient" = "收件人";
+"To" = "to";
+
+"Title" = "标题";
+"Headline" = "标题";
+"Subject" = "主题";
+
+"Description" = "描述";
+"Keywords" = "关键字";
+"Organization" = "组织";
+"Copyright" = "版权";
+
+"Album" = "专辑";
+"Composer" = "作曲家";
+
+"This Hour" = "这个小时";
+"Last Hour" = "最后一个小时";
+"Today" = "今天";
+"Yesterday" = "昨天";
+"This Week" = "本周";
+"Last Week" = "上周";
+"This Month" = "本月";
+"Last Month" = "上个月";
+"This Quarter" = "本季度";
+"Last Quarter" = "上一季度";
+"This Year" = "今年";
+"Last Year" = "去年";
+
+"Any" = "任何";
+"All" = "所有";
+"of the following are true" = "以下内容为真";
+
+"Any Content" = "任何文档";
+"Any Extension" = "任何扩展";
+"Group" = "组";
+"Smart Group" = "智能组";
+"Plain Text" = "纯文本";
+"Rich Text" = "丰富的文本";
+"RTF" = "RTF文本";
+"RTFD" = "rtfd文本";
+"HTML Page" = "HTML页面";
+"Web Archive" = "Web存档";
+"XML File" = "XML文件";
+"Property List" = "属性列表";
+"Image" = "图像";
+"Picture" = "图像";
+"PDF" = "PDF";
+"PDF (Paginated)" = "PDF（分页）";
+"PDF (One Page)" = "PDF（一个页）";
+"PDF without Annotations" = "pdf无注释";
+"PDF with Annotations burnt in" = "pdf带注释燃烧的pdf";
+"PDF/PS" = "PDF/PS";
+"QuickTime" = "QuickTime";
+"Video" = "视频";
+"Audio" = "音频";
+"Bookmark" = "书签";
+"Feed" = "feed";
+"Sheet" = "表";
+"Other" = "其他";
+"Email" = "电子邮件";
+"News" = "新闻";
+
+"does not contain" = "不包含";
+"Filename" = "文件名";
+"begins with" = "从";
+"ends with" = "以";
+"does not begin with" = "不开头";
+"does not end with" = "不会以";
+
+"Operators/Wildcards" = "操作员和通配符";
+"Wildcards" = "通配符";
+"Formatted Note" = "格式的注释";
+"Rating" = "等级";
+
+"Cancel" = "取消";
+"Bounce Dock icon" = "Bounce Dock图标";
+"Display Notification" = "显示通知";
+"Display Alert" = "显示警报";
+"Speak Text" = "说文本";
+"Play Sound" = "播放声音";
+"Change Name" = "更改名称";
+"Change Aliases" = "更改别名";
+"Change Comment" = "更改评论";
+"Change URL" = "更改URL";
+"Change Label" = "更改标签";
+"Change Rating" = "更改等级";
+"Change Creation Date" = "更改创建日期";
+"Change Modification Date" = "更改修改日期";
+"Mark" = "标记";
+"Marked" = "标记";
+"Add Tags" = "添加标签";
+"Remove Tags" = "删除标签";
+"Move" = "移动";
+"Consolidate" = "进入数据库";
+"Deconsolidate" = "移至外部文件夹";
+
+"Replicate" = "复制";
+"Duplicate" = "重复";
+"Duplicate & Continue" = "重复并继续";
+"Sort File" = "文件";
+"into" = "进入";
+"Launch URL" = "启动URL";
+"Add To Reading List" = "添加到阅读列表";
+"Apply Rule" = "应用规则";
+"Execute Script" = "应用脚本";
+"Execute External Script" = "执行外部脚本";
+"Execute Embedded Script" = "执行嵌入式脚本";
+"Execute JavaScript" = "执行JavaScript";
+"Execute AppleScript" = "执行AppleScript";
+"External" = "外部";
+"Embedded" = "嵌入";
+"Embedded JavaScript" = "JavaScript";
+"Embedded AppleScript" = "applescript";
+"Edit Script..." = "编辑脚本...";
+"Move To Trash" = "移至垃圾";
+"Delete" = "删除";
+"Convert" = "转换";
+"Convert & Continue" = "转换并继续";
+"to" = "to";
+"Change %@" = "更改%@";
+"as" = "AS";
+"Flagged" = "标记";
+"Unflagged" = "未封闭";
+"Read" = "阅读";
+"Locked" = "锁定";
+"Unlocked" = "解锁";
+"Current Date" = "当前日期";
+"Creation Date" = "创建日期";
+"Modification Date" = "修改日期";
+"Addition Date" = "加法日期";
+"Document Date" = "文档日期";
+"Newest Document Date" = "最新文档日期";
+"Oldest Document Date" = "最古老的文档日期";
+"Auto Classify" = "分类";
+"Remove All Tags" = "删除所有标签";
+"Move Into Database" = "进入数据库";
+"Move To External Folder" = "移至外部文件夹";
+"same database" = "相同的数据库";
+"any database" = "任何数据库";
+
+"OCR" = "OCR";
+"Searchable PDF" = "可搜索的PDF";
+"Word Document" = "Word文档";
+
+"to Searchable PDF" = "到可搜索的PDF";
+"to Rich Text" = "到丰富的文本";
+"to Word Document" = "到Word文档";
+"to Web Archive" = "到Web存档";
+"to Comment" = "发表评论";
+"to Annotation" = "注释";
+"Apply" = "应用";
+
+"newline" = "线路断开";
+"return" = "返回";
+"tab" = "选项卡";
+"space" = "空间";
+
+"recordIndex" = "索引";
+"recordPageCount" = "页面计数";
+"recordCounter" = "计数器";
+"recordBatesNumber" = "bates编号";
+"pageNumber" = "页码";
+
+"recordName" = "名称";
+"recordProposedName" = "提出的名称";
+"recordNameWithoutDate" = "无日期名称";
+"recordAliases" = "别名";
+"recordComment" = "查找器评论";
+"recordFilename" = "文件名";
+"recordPathExtension" = "文件扩展";
+"recordKind" = "类型";
+"recordURL" = "URL";
+"recordLink" = "项目链接";
+"recordLocation" = "位置";
+"recordTags" = "标签";
+"recordHashTags" = "＃标签";
+
+"author" = "预定义作者";
+"username" = "用户名";
+"fullUsername" = "完整用户名";
+"organization" = "组织";
+"emailAddress" = "电子邮件地址";
+"host" = "主机";
+
+"groupName" = "组名称";
+"topGroupName" = "顶级组名称";
+"databaseName" = "数据库名称";
+"databasePath" = "数据库路径";
+
+"time" = "时间";
+"hour" = "小时";
+"date" = "日期";
+"sortableDate" = "可排序日期";
+"shortDate" = "短日期";
+"longDate" = "漫长日期";
+
+"day" = "天";
+"weekday" = "工作日";
+"month" = "月";
+"monthname" = "月份的名称";
+"year" = "年";
+
+"currentDate" = "当前日期";
+"recordAddition" = "加法日期";
+"recordCreation" = "创建日期";
+"recordModification" = "修改日期";
+
+"recordAdditionTime" = "加法时间";
+"recordAdditionDate" = "加法日期";
+"recordAdditionShortDate" = "简短日期";
+"recordAdditionLongDate" = "长期添加日期";
+"recordAdditionDay" = "加法日";
+"recordAdditionWeekday" = "增加工作日";
+"recordAdditionMonth" = "增加月份";
+"recordAdditionMonthname" = "加法月份的名称";
+"recordAdditionYear" = "增加一年";
+"recordCreationTime" = "创建时间";
+"recordCreationDate" = "创建日期";
+"recordCreationShortDate" = "短创建日期";
+"recordCreationLongDate" = "长创建日期";
+"recordCreationDay" = "创建日";
+"recordCreationWeekday" = "创建工作日";
+"recordCreationMonth" = "创建月";
+"recordCreationMonthname" = "创建月份的名称";
+"recordCreationYear" = "创建年";
+"recordModificationTime" = "修改时间";
+"recordModificationDate" = "修改日期";
+"recordModificationShortDate" = "简短修改日期";
+"recordModificationLongDate" = "长度修改日期";
+"recordModificationDay" = "修改日";
+"recordModificationWeekday" = "修改工作日";
+"recordModificationMonth" = "修改月份";
+"recordModificationMonthname" = "修改月份的名称";
+"recordModificationYear" = "修改年份";
+
+"chatSuggestedTitle" = "建议的标题";
+"chatSuggestedFilename" = "建议的文件名";
+"chatSuggestedTags" = "建议的标签";
+"chatSuggestedRating" = "建议的等级";
+"chatSuggestedSummary" = "建议的摘要";
+"chatSuggestedCompany" = "建议的公司";
+"chatSuggestedAuthors" = "建议的作者";
+"chatSuggestedAmount" = "建议的金额";
+"chatSuggestedPrice" = "建议的价格";
+"chatSuggestedDate" = "建议的日期";
+"chatSuggestedResponse" = "查询响应";
+"response" = "响应";
+"title" = "标题";
+"filename" = "文件名";
+"summary" = "摘要";
+"authors" = "作者";
+"company" = "公司";
+"amount" = "金额";
+"price" = "价格";
+"tags" = "标签";
+"rating" = "等级";
+"Suggest Rating" = "聊天建议";
+"Chat Query" = "聊天查询";
+"Chat Suggestions" = "聊天建议";
+
+"digitalObjectIdentifier" = "数字对象标识符（doi）";
+"internationalStandardBookNumber" = "国际标准书号（ISBN）";
+"documentString" = "文档字符串";
+"documentAmount" = "文档金额";
+"userInput" = "用户输入";
+"scriptOutput" = "脚本输出";
+
+"documentDate" = "文档日期";
+"documentDateTime" = "文档时间";
+"documentDateDate" = "文档日期";
+"documentDateShortDate" = "简短的日期";
+"documentDateLongDate" = "长文档日期";
+"documentDateDay" = "文档日期的日期";
+"documentDateWeekday" = "文档日期的工作日";
+"documentDateMonth" = "文档日期的一个月";
+"documentDateMonthname" = "文档月份的名称";
+"documentDateYear" = "文件日期的年份";
+"documentDateSortableDate" = "可排序的文档日期";
+
+"newestDocumentDate" = "最新文档日期";
+"newestDocumentDateTime" = "最新的文档时间";
+"newestDocumentDateDate" = "最新文档日期";
+"newestDocumentDateShortDate" = "简短的最新文档日期";
+"newestDocumentDateLongDate" = "长期最新的文档日期";
+"newestDocumentDateDay" = "最新文档日期的日期";
+"newestDocumentDateWeekday" = "最新文档日期的工作日";
+"newestDocumentDateMonth" = "最新文档日期的月份";
+"newestDocumentDateMonthname" = "最新文档日期的名称";
+"newestDocumentDateYear" = "最新文档的年份";
+"newestDocumentDateSortableDate" = "可排序的最新文档日期";
+
+"oldestDocumentDate" = "最古老的文档日期";
+"oldestDocumentDateTime" = "最古老的文档时间";
+"oldestDocumentDateDate" = "最古老的文档日期";
+"oldestDocumentDateShortDate" = "最短的文档日期";
+"oldestDocumentDateLongDate" = "最古老的文档日期";
+"oldestDocumentDateDay" = "最古老的文档日期";
+"oldestDocumentDateWeekday" = "最古老的文档日期的工作日";
+"oldestDocumentDateMonth" = "最古老的文档日期";
+"oldestDocumentDateMonthname" = "最古老的文档日期的名称";
+"oldestDocumentDateYear" = "最古老的文档日期";
+"oldestDocumentDateSortableDate" = "可排序的文档日期";
+"oldestDocumentDateSortableDate" = "可排序最古老的文档日期";
+
+"recordAdditionSortableDate" = "可排序的加法日期";
+"recordCreationSortableDate" = "可排序的创建日期";
+"recordModificationSortableDate" = "可排序的修改日期";
+
+"Insert Placeholder" = "插入占位符";
+"Ordinary Tag" = "普通标签";
+"Group Tag" = "组标签";
+
+"Creator" = "创建者";
+"Producer" = "生产者";
+"Send Mail" = "发送邮件";
+"Open" = "打开";
+"Open Externally" = "外部打开";
+
+"within last" = "最后";
+"not within last" = "不在最后";
+"days" = "天";
+"Hits" = "命中";
+"Imprint" = "烙印";
+"Import Email Attachments" = "导入电子邮件附件";
+"with" = "with";
+"User & Computer" = "用户和计算机";
+"Markdown" = "Markdown";
+"Properties" = "属性";
+"Custom Metadata" = "自定义元数据";
+"GENERAL:" = "常规：";
+"PROPERTIES:" = "属性：";
+"CUSTOM METADATA:" = "自定义元数据：";
+"1" = "on";
+"0" = "关闭";
+
+"valueAliases" = "别名";
+"valueComment" = "查找器评论";
+"valuePath" = "路径";
+"valueName" = "名称";
+"valueURL" = "URL";
+
+"before" = "before";
+"on or before" = "before or on";
+"on or after" = "之后或开始";
+"after" = "之后";
+"Current Location" = "当前位置";
+
+"hour" = "小时";
+"recordAdditionHour" = "加法时间";
+"recordCreationHour" = "创建小时";
+"recordModificationHour" = "修改小时";
+"documentDateHour" = "文档小时";
+"newestDocumentDateHour" = "最新的文档小时";
+"oldestDocumentDateHour" = "最古老的文档小时";
+
+"minute" = "分钟";
+"recordAdditionMinute" = "加法分钟";
+"recordCreationMinute" = "创建分钟";
+"recordModificationMinute" = "修改分钟";
+"documentDateMinute" = "文档分钟";
+"newestDocumentDateMinute" = "最新的文档分钟";
+"oldestDocumentDateMinute" = "最古老的文档分钟";
+
+"second" = "第二";
+"recordAdditionSecond" = "添加第二";
+"recordCreationSecond" = "创建第二";
+"recordModificationSecond" = "修改第二";
+"documentDateSecond" = "文档第二";
+"newestDocumentDateSecond" = "最新文档第二";
+"oldestDocumentDateSecond" = "最古老的文档第二";
+
+"clipboard" = "纯文本";
+"styledClipboard" = "丰富的文本";
+"clipboardLink" = "链接";
+"Clipboard" = "剪贴板";
+
+"Convert Keywords to Tags" = "将关键字转换为标签";
+"Convert Hashtags to Tags" = "将主题标签转换为标签";
+"Convert Properties to Tags" = "将属性转换为标签";
+"Convert Geolocation to Tags" = "将地理位置转换为标签";
+"Add Tags to Documents" = "将聊天建议添加到文档中";
+"Add Tags to Images" = "向图像添加视觉建议";
+"Transcribe Text & Notes" = "转录文本和注释";
+"Transcribe Speech" = "转录语音";
+"Recognize" = "识别";
+"Scan Barcodes" = "扫描条形码";
+"Add Tags From Document" = "添加文档中的标签";
+"Tags" = "标签";
+"Scan Name" = "扫描名称";
+"Scan Text" = "扫描文本";
+"String" = "字符串";
+"Date" = "日期";
+"Amount" = "金额";
+"Price" = "价格";
+"Prefix*Suffix" = "前缀*后缀";
+"Regular Expression" = "正则表达式";
+"Check Link" = "查看书签";
+
+"Thumbnails" = "缩略图";
+"Create" = "创建";
+"Update" = "更新";
+"Remove" = "删除";
+"Location in Database (e.g. /Archive/2024/)" = "数据库中的目标（例如/Archive/2024/）";
+"/Archive/\r%recordCreationYear%\r/\r%recordCreationMonth%" = "/archive/\ r%record creationear%\ r/\ r%record creationmonth%";
+"Stop evaluating rules" = "停止评估规则";
+
+"With Links" = "带有项目链接";
+"With Attachments" = "带有附件";
+"Send Mail With Link" = "发送带有项目链接的邮件";
+"Send Mail With Attachment" = "发送带有附件的邮件";
+"Assign Tags" = "分配标签";
+"Document" = "文档";
+"User Input" = "用户输入";
+"User Input:" = "用户输入：";
+"Script Output" = "脚本输出";

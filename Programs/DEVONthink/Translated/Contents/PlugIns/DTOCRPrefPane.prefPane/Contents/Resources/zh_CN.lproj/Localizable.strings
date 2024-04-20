@@ -1,0 +1,168 @@
+/* 
+  Localizable.strings
+  DTOCRPlugin
+
+  Created by Alan Edwards on 21/08/2014.
+  Copyright (c) 2014 DEVONtechnologies. All rights reserved.
+*/
+
+
+"English (United States)" = "英语（美国）";
+"English (United Kingdom)" = "英语（英国）";
+"French" = "法语";
+"German" = "德语";
+"Italian" = "意大利语";
+"Spanish" = "西班牙语";
+
+"Afrikaans" = "南非荷兰语";
+"Albanian" = "Albanian";
+"Arabic (Saudi Arabia)" = "阿拉伯语（沙特阿拉伯）";
+"Arabic (Iraq)" = "阿拉伯语（伊拉克）";
+"Arabic (Egypt)" = "阿拉伯语（埃及）";
+"Arabic (Libya)" = "阿拉伯语（利比亚）";
+"Arabic (Algeria)" = "阿拉伯语（阿尔及利亚）";
+"Arabic (Morocco)" = "阿拉伯语（摩洛哥）";
+"Arabic (Tunisia)" = "阿拉伯语（突尼斯）";
+"Arabic (Oman)" = "阿拉伯语（阿曼）";
+"Arabic (Yemen)" = "阿拉伯语（也门）";
+"Arabic (Syria)" = "阿拉伯语（叙利亚）";
+"Arabic (Jordan)" = "阿拉伯语（约旦）";
+"Arabic (Lebanon)" = "阿拉伯语（黎巴嫩）";
+"Arabic (Kuwait)" = "阿拉伯语（科威特）";
+"Arabic (UAE)" = "阿拉伯语（阿联酋）";
+"Arabic (Bahrain)" = "阿拉伯语（Bahrain）";
+"Arabic (Qatar)" = "阿拉伯语（卡塔尔）";
+"Armenian (Eastern)" = "亚美尼亚（东部）";
+"Armenian (Western)" = "亚美尼亚（西方）";
+"Armenian (Grabar)" = "亚美尼亚（grabar）";
+"Azeri (Cyrillic)" = "azeri（西里尔）";
+"Azeri (Latin)" = "azeri（拉丁语）";
+
+"Basque" = "巴斯克";
+"Belarusian" = "白俄罗斯人";
+"Bulgarian" = "保加利亚语";
+
+"Catalan" = "加泰罗尼亚";
+"Chechen" = "车臣";
+"Chinese (PRC)" = "中文（PRC）";
+"Chinese (Singapore)" = "中文（新加坡）";
+"Chinese (Taiwan)" = "中文（台湾）";
+"Chinese (Hong Kong)" = "中文（香港）";
+"Czech" = "捷克语";
+
+"Danish" = "丹麦语";
+"Dutch" = "荷兰语";
+"Dutch (Netherlands)" = "荷兰（荷兰）";
+"Dutch (Belgian)" = "荷兰语（比利时）";
+
+"English (Australian)" = "英语（澳大利亚）";
+"English (Belize)" = "英语（伯利兹）";
+"English (Canadian)" = "英语（加拿大）";
+"English (Caribbean)" = "英语（加勒比海）";
+"English (Ireland)" = "英语（爱尔兰）";
+"English (Jamaica)" = "英语（牙买加）";
+"English (New Zealand)" = "英语（新西兰）";
+"English (South Africa)" = "英语（南非）";
+"English (Trinidad)" = "英语（Trinidad）";
+"English (Philippines)" = "英语（菲律宾）";
+"English (Zimbabwe)" = "英语（津巴布韦）";
+"Estonian" = "爱沙尼亚语";
+
+
+"Faeroese" = "faeroese";
+"Fijian" = "fijian";
+"Finnish" = "芬兰语";
+"French (Belgian)" = "法语（比利时）";
+"French (Canadian)" = "法语（加拿大）";
+"French (Luxembourg)" = "法语（卢森堡）";
+"French (Swiss)" = "法语（瑞士）";
+
+
+"German (Swiss)" = "德语（瑞士）";
+"German (Austrian)" = "德语（奥地利）";
+"German (Liechtenstein)" = "德语（Liechtenstein）";
+"German (Luxembourg)" = "德语（卢森堡）";
+
+"Greek" = "希腊语";
+
+"Hawaiian" = "夏威夷人";
+"Hebrew" = "希伯来语";
+"Hungarian" = "匈牙利人";
+
+"Icelandic" = "冰岛";
+"Indonesian" = "印尼语";
+"Irish" = "爱尔兰语";
+"Italian (Swiss)" = "意大利语（瑞士）";
+
+"Japanese" = "日语";
+
+"Korean" = "韩语";
+"Korean (Johab)" = "韩语（johab）";
+
+"Latin" = "拉丁语";
+"Latvian" = "拉脱维安";
+"Lithuanian" = "立陶宛语";
+
+"Macedonian" = "马其顿";
+"Malay (Malaysian)" = "马来语（马来西亚）";
+"Malay (Brunei Darussalam)" = "Malay（Brunei darussalam）";
+"Maltese" = "马耳他";
+"Maori" = "毛利人";
+
+"Norwegian" = "挪威语";
+"Norwegian (Bokmal)" = "挪威语（bokmal）";
+"Norwegian (Nynorsk)" = "挪威（Nynorsk）";
+
+"Polish" = "抛光";
+"Portuguese" = "葡萄牙语";
+"Portuguese (Brazilian)" = "葡萄牙语（巴西）";
+
+"Romanian" = "罗马尼亚语";
+"Romanian (Moldavia)" = "罗马尼亚语（摩尔达维亚）";
+"Russian" = "俄罗斯";
+"Russian (with accents marking stress position)" = "俄语（带有重音标记应力位置）";
+"Russian and English" = "俄语和英语";
+"Russian (Moldavia)" = "俄罗斯（摩尔达维亚）";
+
+"Samoan" = "萨摩亚";
+"Serbian (Latin)" = "塞尔维亚（拉丁）";
+"Serbian (Cyrillic)" = "塞尔维亚（西里尔）";
+"Slovak" = "斯洛伐克";
+"Slovenian" = "斯洛文尼亚人";
+"Swedish" = "瑞典语";
+"Swedish (Finland)" = "瑞典（芬兰）";
+
+"Spanish (Argentina)" = "西班牙语（阿根廷）";
+"Spanish (Bolivia)" = "西班牙语（玻利维亚）";
+"Spanish (Chile)" = "西班牙语（智利）";
+"Spanish (Colombia)" = "西班牙语（哥伦比亚）";
+"Spanish (Costa Rica)" = "西班牙语（哥斯达黎加）";
+"Spanish (Dominican Republic)" = "西班牙语（多米尼加共和国）";
+"Spanish (Ecuador)" = "西班牙语（厄瓜多尔）";
+"Spanish (El Salvador)" = "西班牙语（el salvador）";
+"Spanish (Guatemala)" = "西班牙语（危地马拉）";
+"Spanish (Honduras)" = "西班牙语（洪都拉斯）";
+"Spanish (Mexican)" = "西班牙语（墨西哥）";
+"Spanish (Nicaragua)" = "西班牙语（尼加拉瓜）";
+"Spanish (Panama)" = "西班牙语（巴拿马）";
+"Spanish (Paraguay)" = "西班牙语（Paraguay）";
+"Spanish (Peru)" = "西班牙语（秘鲁）";
+"Spanish (PuertoRico)" = "西班牙语（波多黎各）";
+"Spanish (Uruguay)" = "西班牙语（uruguay）";
+"Spanish (Venezuela)" = "西班牙语（委内瑞拉）";
+
+"Thai" = "泰语";
+"Turkish" = "土耳其语";
+
+"Uzbek (Cyrillic)" = "uzbek（西里尔）";
+"Uzbek (Latin)" = "uzbek（拉丁语）";
+"Ukrainian" = "乌克兰人";
+
+"Vietnamese" = "越南语";
+
+"Yiddish" = "意第绪语";
+
+"New Entry" = "新条目";
+
+"PDF Resolution:" = "PDF分辨率：";
+"Resolution:" = "分辨率：";

@@ -1,0 +1,4 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "DevonThink邮件导入支持";
+NSHumanReadableCopyright = "版权所有©2006-2024 DevonTechnologies，LLC";

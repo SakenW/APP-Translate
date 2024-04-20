@@ -1,0 +1,12 @@
+"Print backgrounds" = "打印背景";
+"Print webpage information in headers and footers" = "在标题和页脚中打印网页信息";
+"Show this window when %@ opens" = "在%@打开时显示此窗口";
+"Close" = "关闭";
+"More Scripts..." = "更多脚本...";
+"More Templates..." = "更多模板...";
+"More Plugins..." = "更多插件...";
+"Link destination:" = "链接目标：";
+"Checkbox" = "复选框";
+"Install & update extras automatically" = "自动安装和更新额外";
+"%d extras installed." = "%d Extras已安装。";
+"%d extras updated." = "%d Extras已更新。";

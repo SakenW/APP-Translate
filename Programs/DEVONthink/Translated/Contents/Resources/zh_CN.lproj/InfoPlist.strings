@@ -1,0 +1,29 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleGetInfoString = "3.9.6©2001-2024 DevonTechnologies。";
+NSHumanReadableCopyright = "©2001-2024 DevonTechnologies。";
+NSAppleEventsUsageDescription = "脚本和AppleEvents用于查找器集成，电子邮件归档和从其他应用程序中导入数据。";
+NSContactsUsageDescription = "这是导入模板中的联系人或解决占位符所必需的。";
+NSLocationWhenInUseUsageDescription = "DEVONTHINK索引文档的当前位置。";
+NSCameraUsageDescription = "DEVONTHINK需要此记录。";
+NSMicrophoneUsageDescription = "DEVONTHINK需要此记录说明。";
+
+"DEVONthink Database" = "DEVONTHINK 3数据库";
+"DEVONthink Record" = "DEVONTHINK 3记录";
+"DEVONthink Document" = "DEVONTHINK 3文档";
+"DEVONthink Script Template" = "DevonThink 3脚本模板";
+"DEVONthink Template" = "DEVONTHINK 3模板";
+
+"DEVONthink Sync Store" = "DEVONTHINK 3同步存储";
+"DEVONthink Link" = "DEVONTHINK 3链接";
+"DEVONthink Reference" = "DEVONTHINK 3参考";
+"DEVONthink Registration" = "DEVONTHINK 3注册";
+"DEVONthink Bookmarklet" = "DEVONTHINK 3书签";
+"DEVONthink Dropbox Linking" = "DevonThink 3 Dropbox链接";
+"DEVONthink Database Image" = "加密DEVONTHINK 3数据库";
+"DEVONthink Smart Group" = "DEVONTHINK 3智能组";
+"DEVONthink Smart Rule" = "DEVONTHINK 3智能规则";
+"DEVONthink Reminder" = "DEVONTHINK 3提醒";
+
+"Addressbook Reference" = "地址簿参考";
+"Feed URL" = "feed URL";

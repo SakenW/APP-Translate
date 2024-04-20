@@ -1,0 +1,320 @@
+
+
+"items" = "项目";
+"%@ selected" = "%@ selected";
+
+/* Buttons */
+"OK" = "确定";
+
+"Scan/Camera" = "扫描/相机";
+"Image Capture..." = "图像捕获...";
+"IMAGE CAPTURE" = "图像捕获";
+"Document" = "文档";
+"Inbox" = "收件箱";
+"Trash" = "垃圾";
+"Queue" = "队列";
+"Scans & Images" = "扫描和图像";
+"Devices" = "设备";
+"Up" = "向上";
+"Down" = "向下";
+
+/* Placeholder for tag entry */
+"No tags" = "无标签";
+
+/* Item Properties*/
+"Undefined" = "未定义";
+"Image" = "图像";
+"Movie" = "电影";
+"PDF" = "PDF";
+
+/* Placeholder for tag entry */
+"No tags" = "无标签";
+"Automatic" = "自动";
+
+"Title:" = "标题：";
+"Tags:" = "标签：";
+"To:" = "to：";
+"Type:" = "类型：";
+"OCR:" = "OCR：";
+"Author:" = "作者：";
+"Subject:" = "主题：";
+"PDF Properties" = "PDF属性";
+
+/*Inbox list*/    
+"Properties" = "属性";
+"Edit" = "编辑";
+"Empty Trash" = "空垃圾";
+"Send To" = "发送到";
+"Play" = "播放";
+"Delete" = "删除";
+
+/*List view Page Number*/
+"Page" = "页面";
+
+/* Scanning Queue Buttons & Text */
+"Add" = "添加";
+"Delete" = "删除";
+"Clear Sent" = "清除已发送";
+
+/*Scanning Queue Status*/
+"Queued" = "排队";
+"Scanning" = "扫描";
+"Processing" = "处理";
+"Sent" = "已发送";
+"Start" = "开始";
+"Stop" = "停止";
+"Scanner:" = "扫描仪：";
+"Error send to DEVONthink" = "错误发送到DEVONTHINK";
+"OCR failed" = "OCR失败";
+"OCR canceled" = "OCR cancelled";
+"Queue Stopped %d of %d complete" = "队列停止了%d的%d完成";
+
+/* Show when the OCR failed on a page */
+"You can continue to finish scanning your pages without OCR. Store this document in the database and convert it to a Searchable PDF (using the `Data > Convert > to Searchable PDF' menu)." = "您可以在没有OCR的情况下继续完成扫描页面。将此文档保存在数据库中，然后将其转换为可搜索的PDF（使用“数据>转换>搜索PDF”菜单）。";
+
+/* Image Editing */
+"Press the Crop button after selecting the region to crop image" = "选择区域后按裁剪按钮裁剪图像";
+
+/* Scanner Queue */
+/* %@ would be the scanner name */
+"Could not start the scan queue, as the scanner %@ is currently in use." = "无法启动扫描队列，因为scanner%@当前正在使用。";
+
+"Load the next page and press the Start button" = "加载下一页，然后按开始按钮";
+
+/* Scanner Properties Popover */
+"Kind:" = "类型：";
+"Resolution:" = "分辨率：";
+"Size:" = "大小：";
+"Duplex:" = "双工";
+
+/* List View Button Bar */
+"Properties" = "属性";
+"Edit" = "编辑";
+"Play" = "播放";
+"Delete" = "删除";
+"Transfer" = "转移";
+/* Empty Trash */
+"Empty" = "空";
+
+/* Movie View */
+"Return" = "返回";
+
+/* Image edit view */
+"Crop" = "作物";
+"Rotate" = "旋转";
+"Zoom" = "Zoom";
+"Save" = "保存";
+"Cancel" = "取消";
+"Revert" = "还原";
+
+
+/*Zoom Menu*/
+"Zoom In" = "放大";
+"Zoom Out" = "缩小";
+"Zoom to Fit" = "缩放适合";
+"Actual Size" = "实际尺寸";
+"Automatically Resize" = "自动调整大小";
+
+/* Scan view buttons & text*/
+"Configure" = "配置";
+"Configuration" = "配置";
+"Scan" = "扫描";
+/*Mode is the type of scanner funtion flatbed, sheet feed etc */
+"Mode" = "模式";
+"To" = "to";
+"Automatic" = "自动";
+"New Scan" = "新扫描";
+
+/* Outline view buttons & text */
+"Documents" = "文档";
+"Add Document" = "添加文档";
+"Delete Document" = "删除文档";
+
+/* Error & Information Messages*/
+"Error sending item to DEVONthink" = "错误将项目发送到DevonThink";
+"Failed to send item %s to DEVONthink" = "未能将item%s发送到DEVONTHINK";
+"Could not complete the scan operation, as the scanner %@ is currently in use." = "无法完成扫描操作，因为扫描仪%@当前正在使用。";
+"Could not complete the scan operation, error communicating with scanner %@." = "无法完成扫描操作，与Scanner%@通信的错误。";
+"Action Required: %@" = "所需的操作：%@";
+"Status: %@" = "状态：%@";
+"Ready to scan" = "准备扫描";
+"Scan added to %@" = "扫描添加到%@";
+"Communicating with %@" = "与%@通信";
+"The file type cannot be changed whilst the scanner is in use." = "在使用扫描仪的同时，无法更改文件类型。";
+"Unnamed Binder" = "未命名的粘合剂";
+"Scanner Error: %@" = "扫描仪错误：%@";
+"Please select a scanner device before starting the queue." = "在开始队列之前，请选择一个扫描仪设备。";
+"Scan in progress, please wait for scan to complete" = "正在进行扫描，请等待扫描完成";
+
+
+/* Context Menus*/
+"Empty Trash" = "空垃圾";
+"Add to New Document" = "添加到新文档";
+"Add to Document" = "添加到文档";
+"Add to New Binder" = "添加到新的粘合剂";
+"Add to Binder" = "添加到粘合剂";
+"Move to New Binder" = "移至新粘合剂";
+"Move to Binder" = "移至粘合剂";
+"Move to Trash" = "移至垃圾";
+"From Scanner or Camera..." = "来自扫描仪或相机...";
+
+"A problem was encountered connecting to the scanner %@, press Retry to attempt to connect to the device again." = "遇到了连接到扫描仪%@的问题，按重试尝试再次连接到设备。";
+"Cancel" = "取消";
+"Retry" = "重试";
+
+"OCR canceled" = "OCR已取消";
+"Transfer of the scan %@ was cancelled." = "扫描%@的传输被取消。";
+"Error: Unable to connect to OCR" = "错误：无法连接到OCR";
+"The scanner is in use, stop the scanner queue before using" = "使用扫描仪，在使用之前停止扫描仪队列";
+
+"Error:" = "错误：";
+
+//Scanner Queue
+"No Scanner Devices" = "没有扫描仪设备";
+"Select Scanner" = "选择扫描仪";
+"Status" = "状态";
+"Title" = "标题";
+"Destination" = "目标";
+"Type" = "类型";
+"Pages" = "页面";
+"Tags" = "标签";
+"OCR" = "OCR";
+"Remove Sent" = "删除已发送";
+"Remove All" = "删除所有内容";
+
+"Image Capture" = "图像捕获";
+"Flatbed" = "平板";
+"Positive Transparency" = "正透明度";
+"Negative Transparency" = "负透明度";
+"Document Feeder" = "文档馈线";
+
+"Black & White" = "黑白";
+"Gray Scale" = "灰度";
+"Color" = "颜色";
+"%d dpi" = "%d dpi";
+
+"Scan Capture" = "图像捕获";
+"Scan using Image Capture" = "使用图像捕获扫描";
+"Add Queue Item" = "添加队列项目";
+"Delete Queue Item" = "删除队列项目";
+"Clear items from the queue whose status is Sent." = "从已发送状态的队列中清除项目。";
+"Color PDF" = "颜色pdf";
+"Grey PDF" = "灰色PDF";
+"B/W PDF" = "b/w pdf";
+"New Profile" = "新个人资料";
+
+/* Page reordering */
+"Reverse Order" = "相反顺序";
+"Starting Odd Page:" = "启动奇数页：";
+"Starting Even Page:" = "启动均匀页面";
+"Start" = "开始";
+"Shuffle odd/even pages" = "shuffle奇数/偶数页";
+"Sort" = "排序";
+
+/* Blank Page Detection */
+"Separator" = "分隔符";
+"Page Count" = "页面计数";
+"Blank Page" = "空白页";
+
+"WiFi" = "wifi";
+"USB" = "USB";
+"Network" = "网络";
+
+"Sort and Merge Documents" = "排序并合并文档";
+"From Document:" = "来自文档：";
+"Reverse Order:" = "反向顺序：";
+"Select Document" = "选择文档";
+
+"Processing..." = "处理...";
+
+"Off" = "关闭";
+"Detect Separate Items" = "检测单独的项目";
+"Detect Enclosing Box" = "检测封闭框";
+
+"dpi" = "DPI";
+"RotationAngle:" = "旋转角度：";
+"Duplex" = "双工";
+"Use Custom Size" = "使用自定义大小";
+"Overview" = "概述";
+"Scan" = "扫描";
+"Orientation:" = "方向：";
+"Rotation:" = "旋转：";
+"Size:" = "大小：";
+"Auto Selection:" = "自动选择：";
+"Name:" = "名称：";
+"To:" = "to：";
+"From:" = "来自：";
+"Format:" = "格式：";
+"Overview Scan" = "概述扫描";
+"Pages:" = "页：";
+
+
+"pixels" = "像素";
+"inches" = "英寸";
+"cm" = "cm";
+
+"No document loaded" = "未加载文档";
+"Please select area to scan." = "请选择要扫描的区域。";
+
+"Create new document" = "创建新文档";
+"Document %@" = "document%@";
+"Binder %@" = "binder%@";
+"Scan %@" = "scan%@";
+
+"You exceeded the demo limit on the import of OCR documents for today." = "您超过了今天的OCR文档导入的演示限制。";
+"Unable to complete OCR operation." = "无法完成OCR操作。";
+"Transferring doument %@" = "保存文档%@";
+"Document complete, OCR and save to DEVONthink" = "文档完成，OCR并保存到DEVONTHINK";
+"Document complete, save to DEVONthink" = "文档完成，保存到DevonThink";
+"Done" = "完成";
+
+"Sending Page to %@" = "将页面发送到%@";
+
+"Connect" = "连接";
+"The scanner has been disconnected" = "扫描仪已断开连接";
+"Disconnect" = "断开连接";
+
+"Clear last used settings" = "清除最后使用的设置";
+"Enable last used settings" = "启用最后使用的设置";
+"Disable last used settings" = "禁用最后使用的设置";
+
+// Image Correction
+"Image Correction:" = "图像校正：";
+"None" = "无";
+"Manual" = "手册";
+"Brightness:" = "亮度：";
+"Contrast:" = "对比：";
+"Tint:" = "色彩：";
+"Temperature:" = "温度：";
+"Saturation:" = "饱和：";
+"Threshold:" = "阈值：";
+
+//Accessibility
+"From" = "来自";
+"Mode" = "模式";
+"Resolution" = "分辨率";
+"Size" = "大小";
+"Width" = "宽度";
+"Height" = "高度";
+"Units" = "单位";
+"Rotation Angle" = "旋转角度";
+"Orientation" = "方向";
+"Name" = "名称";
+"To" = "to";
+"Destination" = "目标";
+"Kind" = "类型";
+"Tags" = "标签";
+"Save" = "保存";
+"Overview" = "概述";
+"Scan" = "扫描";
+"Configure" = "配置";
+"Connect" = "连接";
+"Image Correction" = "图像校正";
+"Brightness" = "亮度";
+"Tint" = "色调";
+"Temperature" = "温度";
+"Saturation" = "饱和";
+"Restore Defaults" = "还原默认值";
+
+
+"Unable to OCR document. Please install ABBYY OCR by going to DEVONthink 3 > Install Add-ons and follow the instructions" = "无法进行OCR文档。请进入DevonThink 3>安装附加组件，然后按照说明安装Abbyy OCR";

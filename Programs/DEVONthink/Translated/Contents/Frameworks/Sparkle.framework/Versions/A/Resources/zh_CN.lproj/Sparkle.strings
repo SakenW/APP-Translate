@@ -1,0 +1,89 @@
+"%1$@ %2$@ has been downloaded and is ready to use! This is an important update; would you like to install it and relaunch %1$@ now?" = "%1$@ %2$@ has been downloaded and is ready to use! This is an important update; would you like to install it and relaunch %1$@ now?";
+
+"%1$@ %2$@ has been downloaded and is ready to use! Would you like to install it and relaunch %1$@ now?" = "%1 $@%2 $@已下载并可以使用！您想安装它并重新启动%1 $@现在吗？";
+
+"%1$@ can't be updated, because it was opened from a read-only or a temporary location. Use Finder to copy %1$@ to the Applications folder, relaunch it from there, and try again." = "%1 $@无法更新，因为它是从仅读取或临时位置打开的。使用Finder将%1 $@复制到应用程序文件夹，从那里重新启动，然后重试。";
+
+"%@ %@ is currently the newest version available." = "%1 $@%2 $@当前是最新版本。";
+
+/* Description text for SUUpdateAlert when the update is downloadable. */
+"%@ %@ is now available--you have %@. Would you like to download it now?" = "%1 $@%2 $@现在可用 - 您有%3 $@。您想立即下载吗？";
+
+/* Description text for SUUpdateAlert when the update informational with no download. */
+"%@ %@ is now available--you have %@. Would you like to learn more about this update on the web?" = "%1 $@%2 $@现在可用 - 您有%3 $@。您想在网络上了解有关此更新的更多信息吗？";
+
+"%@ downloaded" = "%@下载";
+
+"%@ of %@" = "%1 $@ of%2 $@";
+
+"A new version of %@ is available!" = "可以使用新版本@！";
+
+"A new version of %@ is ready to install!" = "一个新版本的%@已准备好安装！";
+
+"An error occurred in retrieving update information. Please try again later." = "检索更新信息时发生了错误。请稍后再试。";
+
+"An error occurred while downloading the update. Please try again later." = "下载更新时发生了错误。请稍后再试。";
+
+"An error occurred while extracting the archive. Please try again later." = "提取存档时发生了错误。请稍后再试。";
+
+"An error occurred while installing the update. Please try again later." = "安装更新时发生了错误。请稍后再试。";
+
+"An error occurred while parsing the update feed." = "解析更新feed时发生了错误。";
+
+"An error occurred while relaunching %1$@, but the new version will be available next time you run %1$@." = "在重新启动%1 $@时发生了错误，但是下次您运行%1 $@时，新版本将可用。";
+
+"An important update to %@ is ready to install" = "对%@的重要更新已准备好安装";
+
+/* the unit for bytes */
+"B" = "b";
+
+"Cancel" = "取消";
+
+"Cancel Update" = "取消更新";
+
+"Checking for updates..." = "检查更新…";
+
+/* Take care not to overflow the status window. */
+"Downloading update..." = "下载更新…";
+
+/* Take care not to overflow the status window. */
+"Extracting update..." = "提取更新…";
+
+/* the unit for gigabytes */
+"GB" = "GB";
+
+"Install and Relaunch" = "安装并重新启动";
+
+/* Take care not to overflow the status window. */
+"Installing update..." = "安装更新…";
+
+/* the unit for kilobytes */
+"KB" = "kb";
+
+/* Alternative name for "Install" button if we have a paid update or other update
+	without a download but with a URL. */
+"Learn More..." = "了解更多…";
+
+/* the unit for megabytes */
+"MB" = "MB";
+
+/* OK button. */
+"OK" = "确定";
+
+/* Status message on progress window once download has finished. */
+"Ready to Install" = "准备安装";
+
+/* Message that is optionally shown at startup to allow users to turn on/off update checks. */
+"Should %1$@ automatically check for updates? You can always check for updates manually from the %1$@ menu." = "应该%1 $@自动检查更新吗？您始终可以从%1 $@菜单中手动检查更新。";
+
+"The update is improperly signed." = "更新不当。";
+
+"Update Error!" = "更新错误！";
+
+"Updating %@" = "更新%@";
+
+/* 'Error' message when the user checks for updates but is already current or the feed doesn't contain any updates. (not necessarily shown in UI) */
+"You already have the newest version of %@." = "您已经拥有%@的最新版本。";
+
+/* Status message shown when the user checks for updates but is already current or the feed doesn't contain any updates. */
+"You're up-to-date!" = "您是最新的！";

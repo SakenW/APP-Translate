@@ -1,0 +1,17 @@
+
+"%@ support is installed but %@ is not the default application." = "%1 $@支持已安装，但%2 $@不是默认应用程序。";
+"An error occurred while installing the support files!" = "安装支持文件时发生了错误！";
+"Can't find any preferences for the %@ application. After that application has started, go to the \"Setting...\" menu and click OK. Then quit it and return to %@." = "可以找到对%@应用程序的任何首选项。该应用程序启动后，转到“设置...”菜单，然后单击“确定”。然后退出并返回%@。";
+"Can't save file in folder `%@', check write permissions!" = "可以将文件保存在文件夹“%@”中，检查写入权限！";
+"Cancel" = "取消";
+"Fix" = "修复";
+"OK" = "确定";
+"Please quit %@" = "请退出%@";
+"Quit it for me" = "为我退出";
+"Couldn't quit application." = "无法退出应用程序。";
+"The %@ application is still running. Try to quit it again or click \"Cancel\" to stop this configuration process." = "%@应用程序仍在运行。尝试再次退出，或单击“取消”以停止此配置过程。";
+"This application can't run while the support is being installed." = "在安装支持时，此应用程序无法运行。";
+"You may need to manually disable the Quick Menu option in ScanSnap Manager's Dock menu." = "您可能需要在ScansNap Manager的Dock菜单中手动禁用快速菜单选项。";
+"Install %@ %@ Support" = "install%@%@支持";
+"Fix %@ %@ Support" = "fix%@%@支持";
+"If you decide to install direct support, the scans you make will be sent to %@ after an OCR operation. This means that the full power of classification can be applied to your scanned documents." = "如果您决定安装直接支持，则在OCR操作后将进行扫描将发送至%@。这意味着可以将全部分类功能应用于您的扫描文档。";

@@ -1,0 +1,27 @@
+
+/* na */
+"Authentication" = "身份验证";
+
+/* na */
+"OK" = "确定";
+
+/* na */
+"User or password not valid. Please try again." = "用户或密码无效。请再试一次。";
+
+/* na */
+"Authenticate" = "身份验证";
+
+/* na */
+"Cancel" = "取消";
+
+/* na */
+"User:" = "用户：";
+
+/* na */
+"Password:" = "密码：";
+
+"Name:" = "名称：";
+"Add password to keychain" = "在我的键链中记住此密码";
+"Host:" = "服务器：";
+"Realm:" = "领域：";
+"Log In" = "登录";

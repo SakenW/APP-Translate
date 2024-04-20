@@ -1,0 +1,71 @@
+/* Localized strings for templates */
+
+"E-mail" = "电子邮件";
+"Email (with attachments)" = "电子邮件（带附件）";
+"Images (large)" = "图像（大）";
+"Images (small)" = "图像（小）";
+"Images" = "图像";
+"Music" = "音乐";
+"Other Documents" = "其他文档";
+"QuickTime Media" = "QuickTime Media";
+"Sheets" = "表";
+"Videos" = "视频";
+"Last Month" = "上个月";
+"Last Week" = "上周";
+"Last Year" = "去年";
+"Large Documents" = "大文档";
+"PDFs (not searchable)" = "PDFS（不可搜索）";
+"Due or Flagged" = "到期或标记";
+"Documents with Annotations" = "带注释的文档";
+"⭑⭐︎⭐︎⭐︎⭐︎" = "⭑⭐︎⭐︎⭐︎⭐︎";
+"⭑⭑⭑⭑⭑" = "⭑⭑⭑⭑⭑";
+
+"Toolbar" = "工具栏";
+"Address Book Card" = "名片";
+"Addresses & Dates" = "联系人和事件";
+
+"Bibliography" = "参考书目";
+"Articles" = "文章";
+"Books" = "书籍";
+"Booklets" = "小册子";
+"Manuals" = "手册";
+"Proceedings" = "程序";
+"Technical Reports" = "技术报告";
+"Theses" = "这些";
+
+"Daily Journal" = "每日日记";
+"Daily Journal — Text" = "每日期刊 - 文本";
+"Daily Journal — Markdown" = "每日期刊 - 降价";
+"Task List" = "任务列表";
+"Weekly Review" = "每周评论";
+"Productivity" = "生产力";
+
+"Cornell Notes — Markdown" = "康奈尔注释 - 降价";
+"Cornell Notes — Text" = "康奈尔注释 - 文本";
+"Cornell Notes (Education) — Markdown" = "Cornell Notes（教育） -  Markdown";
+"Cornell Notes (Education) — Text" = "Cornell注释（教育） - 文本";
+"Lab Notes — Markdown" = "实验室注释 -  Markdown";
+"Lab Notes — Text" = "实验室注释 - 文本";
+"References" = "参考";
+"Reference (from Bookends)" = "参考（来自bookends）";
+"Reference (from EndNote)" = "参考（来自endnote）";
+"Quotes" = "报价";
+"Quote (from clipboard)" = "QUOTE（来自剪贴板）";
+"Articles" = "文章";
+"Booklets" = "小册子";
+"Books" = "书籍";
+"Manuals" = "手册";
+"Proceedings" = "程序";
+"Technical Reports" = "技术报告";
+"Theses" = "这些";
+"PubMed" = "搜索PubMed…";
+"PubMed — Text" = "搜索PubMed… - 文本";
+"PubMed — Markdown" = "搜索PubMed… -  Markdown";
+"AI" = "AI";
+"Ask Chat — Text" = "问聊天… - 文本";
+"Ask Chat — Markdown" = "询问聊天… -  Markdown";
+"New Image With Prompt" = "图像助手…";
+"Short Story — Markdown" = "短篇小说助手 - 降价";
+"Short Story — Text" = "短篇小说助手 - 文本";
+"Document Assistant — Text" = "文档助手 - 文本";
+"Document Assistant — Markdown" = "文档助手 - 降价";

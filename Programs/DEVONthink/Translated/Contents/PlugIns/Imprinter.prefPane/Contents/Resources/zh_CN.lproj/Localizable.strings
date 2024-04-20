@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  ImprinterPrefPane
+
+  Created by Alan Edwards on 10/03/2017.
+  Copyright © 2017 DEVONtechnologies LLC. All rights reserved.
+*/
+
+"No Imprinter Configurations" = "没有Indriftern配置";
+"Combined" = "组合";
+"Configurations" = "配置";
+"Configurations:" = "配置";
+"New Imprinter" = "新的impinter";
+"New Combined Imprint" = "新的组合烙印";
+"Preview" = "预览";
+
+"Add Configuration" = "添加配置";
+"New Configuration" = "新";
+"Duplicate Configuration" = "重复";
+"Combined Configuration" = "组合";
+"New Combined Configuration" = "新组合";
+"Delete Configuration" = "删除";
+
+"Preview" = "预览";
+"Appearance" = "外观";
+"Title:" = "标题：";
+"Thickness" = "厚度";
+"Text:" = "文本：";
+"Style:" = "样式：";
+"Border:" = "边界：";
+"Colour" = "颜色";
+"Fill:" = "填充：";
+
+"Location" = "位置";
+"Position:" = "位置：";
+"Offset:" = "偏移：";
+"Rotation:" = "旋转：";
+"Occurance:" = "出现：";
+"Every Page" = "每个页面";
+"First Page Only" = "仅第一页";
+"Even Pages" = "甚至页面";
+"Odd Pages" = "奇数页";
+"Custom" = "自定义";
+
+"Page Number" = "页码";
+"Font" = "字体";
+"Imprinter:" = "配置：";
+"Size" = "大小";
+"Color" = "颜色";
+"No Border" = "无边界";
+
+"Pixels" = "像素";
+"Degrees" = "度";
+
+"Delete" = "删除";
+"Cancel" = "取消";
+"Delete %@?" = "delete%@？";
+"Deleted configurations cannot be restored." = "无法还原删除的配置。";
+
+"Custom occurance requires a value" = "自定义发生需要一个值";
+"Set the page numbers to imprint i.e 1,2,4" = "将页码设置为烙印，即1,2,4";
+
+"Duplicate item before Imprinting" = "重复项目在印记之前";

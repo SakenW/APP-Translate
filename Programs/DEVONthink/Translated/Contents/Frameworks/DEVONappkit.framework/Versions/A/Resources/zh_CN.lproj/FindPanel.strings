@@ -1,0 +1,55 @@
+/* Status displayed in find panel when the find string is not found. */
+"Not found" = "找不到";
+
+/* Status displayed in find panel when indicated number of matches are replaced. */
+"%d replaced" = "%d替换";
+
+/* na */
+"Find" = "查找";
+
+/* na */
+"Simple:" = "查找：";
+
+/* na */
+"Find:" = "查找：";
+
+/* na */
+"Find next occurrence of the Find string" = "查找查找字符串的下一个出现";
+
+/* na */
+"Next" = "接下来";
+
+/* na */
+"Find previous occurrence of the Find string" = "查找查找字符串的先前出现";
+
+/* na */
+"Previous" = "Previous";
+
+/* na */
+"Ignore Case" = "忽略案例";
+
+/* na */
+"Entire File" = "整个文档";
+
+/* na */
+"Replace current selection with the replacement string" = "用替换字符串替换电流选择";
+
+/* na */
+"Replace" = "替换";
+
+/* na */
+"Replace current selection with the replacement
+string and find next occurence of the Find string" = "Replace current selection with the replacement
+string and find next occurence of the Find string";
+
+/* na */
+"Replace & Find" = "替换并查找";
+
+/* na */
+"Replace all occurrences of the Find string with replacement string" = "用更换字符串替换查找字符串的所有出现";
+
+/* na */
+"Replace All" = "替换所有";
+
+/* na */
+"Replace with:" = "替换为：";

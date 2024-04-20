@@ -1,0 +1,23 @@
+/* na */
+"Waiting" = "排队";
+
+/* na */
+"Retry" = "重试";
+
+/* na */
+"Loading" = "加载...";
+
+/* na */
+"%.1f of %.1f KB, %.1f KB/s" = "%。0f%.0f kb，%.1f kb/s";
+
+/* na */
+"%.1f KB, %.1f KB/s" = "%。0fkb，%.1f kb/s";
+
+/* na */
+"Succeeded" = "成功";
+
+/* na */
+"Failed" = "失败";
+
+/* na */
+"Skipped" = "跳过";

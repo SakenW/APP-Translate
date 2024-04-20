@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "Pantomime";
+CFBundleShortVersionString = "Pantomime版本1.2.0.11（Devontechnologies LLC）";
+CFBundleGetInfoString = "Pantomime版本1.2.0.11（Devontechnologies LLC），版权所有2001-2007 Ludovic Marcotte。";
+NSHumanReadableCopyright = "版权所有2001-2007 Ludovic Marcotte。";

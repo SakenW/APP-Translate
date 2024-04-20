@@ -1,0 +1,6 @@
+"Started server \"%@\" ()" = "启动服务器\“%@\”（）";
+"Error starting server: %@" = "错误启动服务器：%@";
+"Port already in use" = "已经在使用的端口";
+"No sockets available" = "没有可用的插座";
+"Start Web Server" = "启动服务器";
+"Stop Web Server" = "停止服务器";

@@ -1,0 +1,80 @@
+
+"Registration" = "注册";
+
+"Registration %@" = "注册%@";
+
+"Register" = "注册";
+
+"Registering..." = "注册…";
+"Removing..." = "删除…";
+
+"Download" = "下载";
+
+"Website" = "网站";
+
+"Download Page" = "下载页面";
+
+"Quit" = "退出";
+
+"Expired Beta" = "我们的公共Beta版本通常运行四到八周，然后必须由新的公共测试版或最终版本代替。尽管通常会通过检查更新机制自动发生这种情况，但您可能已经错过了在到期日之前安装更新。\ n \ nplease访问我们的网站并下载新的公共Beta或从我们的下载页面上下载最终版本。";
+
+"OK" = "确定";
+
+"Cancel" = "取消";
+
+"Remove" = "删除";
+
+"License is outdated. Please contact our\nsupport to get a new license." = "许可证已过时。请联系我们的\ nsupport获得新的许可证。";
+
+"Thanks for registering %@ %@ Edition!\n\nNow please backup the registration file:\n%@" = "感谢您注册%@%@%@ edition！\ n \ n不，请备份注册文件：\ n%@";
+
+"Thanks for registering %@ %@ Edition!" = "感谢您注册%@%@ Edition！";
+
+"Thanks for registering %@!\n\nNow please backup the registration file:\n%@" = "感谢您注册%@！\ n \ n，请备份注册文件：\ n%@";
+
+"Thanks for registering %@!" = "感谢您注册%@！";
+
+"Show file" = "显示文件";
+
+"A New Version is Available" = "有一个新版本可用";
+
+"A new version of %@ %@ Edition is available (%@). Would you like to download the new version now?" = "可以使用%@%@ Edition的新版本（%@）。您想立即下载新版本吗？";
+
+"Your software is up-to-date" = "您的软件是最新的";
+
+"You are running %@ %@ Edition %@. No newer version was found." = "您正在运行%@%@%@ Edition%@。找不到更新的版本。";
+
+"Get new license" = "获取新许可证";
+
+"Checking for updates..." = "检查更新...";
+
+"Unregistered: %%d (%.1f hours left)" = "未注册：%% D（剩下%.1f小时）";
+
+"Buy Now (%d days left)" = "立即购买！ - 剩下的%D天。";
+"Buy Now (%d hours left)" = "立即购买！ - 剩下%D小时。";
+"Buy Now (%d minutes left)" = "立即购买！ - 剩下%D分钟。";
+"Buy Now (%d seconds left)" = "立即购买！ - 剩下%D秒。";
+"Buy Now" = "立即购买！";
+
+"Purchase" = "购买";
+
+"Name:" = "名称：";
+
+"Organization:" = "组织：";
+
+"License:" = "许可证：";
+
+"The entered license code is not valid for this application but it is for %@. Please download and install %@ which will happily accept this license code." = "输入的许可证代码对此应用程序无效，但适用于%@。请下载并安装%@，它将很乐意接受此许可证代码。";
+
+"Check for Updates" = "检查更新...";
+
+"Checking for Updates" = "检查更新…";
+
+"Update On Quit" = "退出...";
+"Your Account" = "您的帐户";
+"License still %d days valid" = "许可证仍然%d天有效";
+"License still %d hours valid" = "许可证仍然%d小时有效";
+"License still %d minutes valid" = "许可证仍然%d分钟有效";
+"License still %d seconds valid" = "许可证仍然%d秒有效";
+"Only %d hours of trial left." = "仅剩下%d小时。";
+"Enter License..." = "输入许可…";

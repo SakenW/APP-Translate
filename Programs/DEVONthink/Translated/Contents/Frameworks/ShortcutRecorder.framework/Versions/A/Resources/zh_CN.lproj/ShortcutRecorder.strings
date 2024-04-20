@@ -1,0 +1,14 @@
+"Space" = "空间";
+"Use old shortcut" = "使用旧快捷方式";
+"Type shortcut" = "键入快捷方式";
+"Click to record shortcut" = "单击以记录快捷方式";
+"Pad %@" = "pad%@";
+"The key combination \"%@\" can't be used!" = "键组合“%@”无法使用！";
+"The key combination \"%@\" can't be used because %@." = "密钥组合“%@”无法使用，因为%@。";
+"The key combination \"%@\" is already in use." = "密钥组合“%@”已经在使用。";
+"The key combination \"%@\" can't be used because it’s already used by a system-wide keyboard shortcut. If you really want to use this key combination, most shortcuts can be changed in the Keyboard panel in System Preferences." = "键组合“%@”无法使用，因为它已经由系统范围的键盘快捷键使用。如果您真的想使用此键组合，则大多数快捷方式可以在系统首选项中的键盘面板中更改。";
+"The key combination \"%@\" can't be used because it's already used by the menu item \"%@\"." = "键组合“%@”无法使用，因为菜单项“%@”已经使用了。";
+"Command-" = "命令 -";
+"Option-" = "选项 -";
+"Shift-" = "shift-";
+"Control-" = "控制 -";

@@ -1,0 +1,134 @@
+/* 
+  UnifiedCapture.strings
+  DTUnifiedCapture
+
+  Created by Alan Edwards on 25/03/2015.
+  Copyright (c) 2015 DEVONtechnologies LLC. All rights reserved.
+*/
+
+"FAVORITES" = "收藏夹";
+"GLOBALS" = "Globals";
+"DATABASES" = "数据库";
+
+"Cancel" = "取消";
+"Couldn't save your note in the database" = "无法在数据库中保存笔记";
+"DEVON Note" = "未保存的注释";
+"It has been saved on your Desktop as `%@'." = "已将其保存在您的桌面上为“%@”。";
+"Opens a panel where you can enter a note with a title." = "打开一个面板，您可以在其中输入带有标题的注释。";
+"Save" = "保存";
+"Sort into:" = "排序：";
+"Take Note" = "注意";
+"Take Note..." = "注意...";
+"Title" = "标题";
+"Tags:" = "标签：";
+"Tags" = "标签";
+"Body" = "正文";
+"Automatic" = "自动";
+"Format" = "格式";
+"Rich Text" = "丰富的文本";
+"URL" = "URL";
+"Comments" = "注释";
+
+"Note" = "注意";
+"Plain Text" = "纯文本";
+"Bookmark" = "书签";
+"Rich Text" = "丰富的文本";
+"Rich Text (Selection)" = "丰富的文本（选择）";
+"HTML Page" = "HTML页面";
+"Web Archive" = "Web存档";
+"PDF (One Page)" = "PDF（一个页）";
+"PDF (Paginated)" = "PDF（分页）";
+
+"Clip to DEVONthink" = "剪辑到DevonThink";
+"Clip to DEVONthink..." = "剪辑到DevonThink ...";
+"Clip" = "剪辑";
+"Save ⌘S" = "保存⌘S";
+"Clip ⌘S" = "剪辑⌘S";
+
+"Formatted Note" = "格式的注释";
+"Markdown" = "Markdown";
+"New Group" = "新组";
+"Reformat with Readability" = "使用无杂波布局";
+
+"No tags" = "无标签";
+
+"Clear" = "清除";
+"Add" = "添加";
+"Trim" = "修剪";
+"Record" = "记录";
+"Pause" = "暂停";
+"Play" = "播放";
+"Stop" = "停止";
+
+
+"Preparing to Record" = "准备记录";
+
+"Navigation ⌘1" = "导航⌘1";
+"Take Note ⌘2" = "请注意⌘2";
+"Voice Note ⌘3" = "语音注释⌘3";
+"Video Note ⌘4" = "视频注释⌘4";
+"Screen Capture ⌘5" = "屏幕捕获⌘5";
+"Web Clip ⌘6" = "Web剪辑⌘6";
+
+"Unable to find a camera device" = "无法找到相机设备";
+
+"None" = "无";
+"Show as Menu Extra" = "显示为菜单额外";
+"Show as Dock Tab" = "显示为DOCK选项卡";
+"Appearance:" = "外观：";
+"Position:" = "位置";
+"Menu Extra Title:" = "菜单额外标题：";
+"Screen Capture:" = "屏幕捕获：";
+"Screen Capture" = "屏幕捕获";
+"Play sound after capture" = "捕获后播放声音";
+"Take Note Hotkey:" = "注意hotkey：";
+"Set a key combination to open the Take Note display." = "设置一个键组合以打开记录显示。";
+"Text" = "文本";
+"Icon" = "图标";
+
+"Saving Video Note" = "保存视频注释...";
+
+"Open" = "打开";
+"Reveal" = "揭示";
+
+"Info" = "信息";
+"Location" = "位置";
+"Name" = "名称";
+"Format" = "格式";
+"Clutter-Free" = "无混乱";
+"Body" = "正文";
+"Marks" = "标记";
+"Label" = "标签";
+"Rating" = "等级";
+"Locked" = "锁定";
+"Unread" = "未读";
+"Flagged" = "标记";
+"Screen" = "屏幕";
+"Window" = "窗口";
+"Selection" = "选择";
+"Capture..." = "捕获...";
+"Include this window" = "包括此窗口";
+"Camera" = "相机";
+"Microphone" = "麦克风";
+"Capture Content from..." = "从...捕获内容";
+"URL on the clipboard" = "\ nClipboard上的URL";
+"Enter manually" = "手动输入";
+
+"Copy Selection Hotkey:" = "复制选择热门：";
+"Clip to DEVONthink Hotkey:" = "剪辑到DevonThink Hotkey：";
+"Search Hotkey:" = "搜索hotkey：";
+"Unable to clip from %@" = "无法从%@剪辑";
+"Check DEVONthink has rights to access the web browser and that the active tab has a URL" = "检查DevonThink有权访问Web浏览器，并且“ Active Tab”具有URL";
+
+"Visibility:" = "可见性：";
+"Full" = "完整";
+"Video note is disabled as DEVONthink 3 does not have rights to access the camera" = "视频注释被禁用，因为DevonThink 3没有访问相机的权利";
+"Preview" = "预览";
+"Generating Preview" = "生成预览";
+"Unable to generate preview" = "无法生成预览";
+
+/* Accessibility */
+"Take Note Hotkey" = "注意hotkey";
+"Copy Selection Hotkey" = "复制选择hotkey";
+"Clip to DEVONthink Hotkey" = "剪辑到Devonthink Hotkey";
+"Search Hotkey" = "搜索hotkey";

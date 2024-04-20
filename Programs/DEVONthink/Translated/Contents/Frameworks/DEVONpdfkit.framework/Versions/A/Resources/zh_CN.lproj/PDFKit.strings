@@ -1,0 +1,20 @@
+"Automatically rotate each page" = "自动旋转每个页面";
+"No automatic page scaling" = "无自动页面缩放";
+"Scale each page to fit paper" = "将每页缩放以适合纸张";
+"Only scale down large pages" = "仅扩展大页面";
+
+"FreeText" = "文本";
+"Text" = "注意";
+"Link" = "链接";
+"Line" = "行";
+"Circle" = "椭圆形";
+"Square" = "矩形";
+"Highlight" = "突出显示";
+"Underline" = "下划线";
+"StrikeOut" = "通过";
+"Attachment" = "附件";
+"Image" = "图像";
+"Multimedia" = "多媒体";
+"Title" = "标题";
+"URL" = "URL";
+"Squiggly" = "Squiggly";
